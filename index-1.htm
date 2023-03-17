@@ -1,0 +1,590 @@
+<!DOCTYPE html>
+<html lang="en-US" dir="ltr">
+<head>
+<title>RAGE Multiplayer</title>
+<!--[if lt IE 9]>
+			
+		    <script src="//rage.mp/applications/core/interface/html5shiv/html5shiv.js"></script>
+		<![endif]-->
+<link rel="image_src" href="https://rage-mp.net/imgs/pic.png" />
+<link rel="apple-touch-icon" sizes="57x57" href="https//rage.mp/favicon/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="https://rage.mp/favicon/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="https://rage.mp/favicon/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="https://rage.mp/favicon/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="https://rage.mp/favicon/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="https://rage.mp/favicon/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="https://rage.mp/favicon/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="https://rage.mp/favicon/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="https://rage.mp/favicon/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192" href="https://rage.mp/favicon/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://rage.mp/favicon/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="https://rage.mp/favicon/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="https://rage.mp/favicon/favicon-16x16.png">
+<link rel="manifest" href="https://rage.mp/favicon/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="https://rage.mp/favicon/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta property="og:image" content="https://rage.mp/uploads/monthly_2017_02/pic.png.08720494346d8c06ff22670bd11d63d2.png">
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:site" content="@ragemultiplayer" />
+<meta name="description" content="RAGE Multiplayer is an alternative multiplayer modification for Grand Theft Auto V.">
+<meta property="og:site_name" content="RAGE:Multiplayer">
+<meta property="og:locale" content="en_US">
+<link rel="canonical" href="https://rage.mp/?">
+<meta name="keywords" content="rage, ragemp, ragemultiplayer, rage:mp, rage:multiplayer, rage mp, rage multiplayer, gtamp, gtamultiplayer, gta:mp, gta mp, gta multiplayer, gta, gta v, gta 5, grand theft auto, grand theft auto v, grand theft auto 5, gta multiplayer, gta 5 multiplayer, gta v multiplayer, grand theft auto multiplayer, gta online, gta 5 online, gta v online, grand theft auto online, mp, multiplayer, online, mod, modification">
+<link rel="manifest" href="https://rage.mp/manifest.webmanifest/">
+<meta name="msapplication-config" content="https://rage.mp/browserconfig.xml/">
+<meta name="msapplication-starturl" content="/">
+<meta name="application-name" content="RAGE Multiplayer Community">
+<meta name="apple-mobile-web-app-title" content="RAGE Multiplayer Community">
+<meta name="theme-color" content="#323a45">
+<link rel="preload" href="//rage.mp/applications/core/interface/font/fontawesome-webfont.woff2?v=4.7.0" as="font" crossorigin="anonymous">
+<link href="https://fonts.googleapis.com/css?family=Play:400,700&subset=cyrillic,cyrillic-ext,greek,latin-ext" rel="stylesheet">
+<link rel='stylesheet' href='https://rage.mp/uploads/css_built_7/341e4a57816af3ba440d891ca87450ff_framework.css?v=15e03a22921625168499' media='all'>
+<link rel='stylesheet' href='https://rage.mp/uploads/css_built_7/05e81b71abe4f22d6eb8d1a929494829_responsive.css?v=15e03a22921625168499' media='all'>
+<link rel='stylesheet' href='https://rage.mp/uploads/css_built_7/20446cf2d164adcc029377cb04d43d17_flags.css?v=15e03a22921625168499' media='all'>
+<link rel='stylesheet' href='https://rage.mp/uploads/css_built_7/90eb5adf50a8c640f633d47fd7eb1778_core.css?v=15e03a22921625168499' media='all'>
+<link rel='stylesheet' href='https://rage.mp/uploads/css_built_7/5a0da001ccc2200dc5625c3f3934497d_core_responsive.css?v=15e03a22921625168499' media='all'>
+<link rel='stylesheet' href='https://rage.mp/uploads/page_objects/bootstrap.css.0c070dbfb51f2d53d7fe77966e40c2bf.css?v=15e03a22921625168499' media='all'>
+<link rel='stylesheet' href='https://rage.mp/uploads/page_objects/faetures.css.2fd328283c3c25bc50e3579ca5db15f0.css?v=15e03a22921625168499' media='all'>
+<link rel='stylesheet' href='https://rage.mp/uploads/page_objects/main.css.9616decc87f55a91a608ffba85bdf6ac.css?v=15e03a22921625168499' media='all'>
+<link rel='stylesheet' href='https://rage.mp/uploads/page_objects/mainQuiteBlack.css.8dbd9c2e35934dfcae3bffec9ea4971c.css?v=15e03a22921625168499' media='all'>
+<link rel='stylesheet' href='https://rage.mp/uploads/css_built_7/258adbb6e4f3e83cd3b355f84e3fa002_custom.css?v=15e03a22921625168499' media='all'>
+<script type="03b01ca3c1ebd9d9ea3c3481-text/javascript">
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+        ga('create', 'UA-84073332-1', 'auto');
+        ga('send', 'pageview');
+      	</script>
+</head>
+<body class='ipsApp ipsApp_front ipsJS_none ipsClearfix' data-controller='core.front.core.app' data-message="" data-pageApp='' data-pageLocation='front' data-pageModule='' data-pageController='' itemscope itemtype="https://schema.org/WebSite">
+
+<script type="03b01ca3c1ebd9d9ea3c3481-text/javascript">
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter39962090 = new Ya.Metrika({
+                    id:39962090,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true,
+                    webvisor:true
+                });
+            } catch(e) { }
+        });
+
+        var n = d.getElementsByTagName("script")[0],
+            s = d.createElement("script"),
+            f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = "https://mc.yandex.ru/metrika/watch.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks");
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/39962090" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+
+<meta itemprop="url" content="https://rage.mp/">
+<a href='#elContent' class='ipsHide' title='Go to main content on this page' accesskey='m'>Jump to content</a>
+<div class='navBg  ipsClearfix'>
+<div class="ipsLayout_container">
+<div style="float: left" class="">
+<nav class="ipsNavBar_primary" data-controller='core.front.core.navBar'>
+<ul data-role="primaryNavBar" class='primBar ipsResponsive_showDesktop ipsResponsive_block'>
+<li id='elNavSecondary_14' data-role="navBarItem" data-navApp="core" data-navExt="CustomItem">
+<a href="https://rage.mp" data-navItem-id="14">
+Home
+</a>
+</li>
+<li id='elNavSecondary_1' data-role="navBarItem" data-navApp="core" data-navExt="CustomItem">
+<a href="https://rage.mp/forums/" data-navItem-id="1">
+Forums
+</a>
+<ul class='ipsNavBar_secondary ipsHide' data-role='secondaryNavBar'>
+<li id='elNavSecondary_8' data-role="navBarItem" data-navApp="forums" data-navExt="Forums">
+<a href="https://rage.mp/forums/" data-navItem-id="8">
+Forums
+</a>
+</li>
+<li id='elNavSecondary_12' data-role="navBarItem" data-navApp="core" data-navExt="StaffDirectory">
+<a href="https://rage.mp/staff/" data-navItem-id="12">
+Staff
+</a>
+</li>
+<li id='elNavSecondary_13' data-role="navBarItem" data-navApp="core" data-navExt="OnlineUsers">
+<a href="https://rage.mp/online/" data-navItem-id="13">
+Online Users
+</a>
+</li>
+<li class='ipsHide' id='elNavigationMore_1' data-role='navMore'>
+<a href='#' data-ipsMenu data-ipsMenu-appendTo='#elNavigationMore_1' id='elNavigationMore_1_dropdown'>More <i class='fa fa-caret-down'></i></a>
+<ul class='ipsHide ipsMenu ipsMenu_auto' id='elNavigationMore_1_dropdown_menu' data-role='moreDropdown'></ul>
+</li>
+</ul>
+</li>
+<li id='elNavSecondary_22' data-role="navBarItem" data-navApp="core" data-navExt="CustomItem">
+<a href="https://wiki.rage.mp/" target='_blank' data-navItem-id="22">
+Wiki
+</a>
+</li>
+<li id='elNavSecondary_62' data-role="navBarItem" data-navApp="core" data-navExt="CustomItem">
+<a href="https://rage.mp/files/" data-navItem-id="62">
+Resources
+</a>
+</li>
+<li id='elNavSecondary_45' data-role="navBarItem" data-navApp="core" data-navExt="CustomItem">
+<a href="https://rage.mp/masterlist/" data-navItem-id="45">
+Masterlist
+</a>
+</li>
+
+</ul>
+</nav>
+</div>
+<div style="float: right">
+<ul id='elUserNav' class='ipsList_inline cSignedOut ipsResponsive_showDesktop'>
+<li id='elSignInLink'>
+<a href='https://rage.mp/login/' data-ipsMenu-closeOnClick="false" data-ipsMenu id='elUserSignIn'>
+Existing user? Sign In &nbsp;<i class='fa fa-caret-down'></i>
+</a>
+<div id='elUserSignIn_menu' class='ipsMenu ipsMenu_auto ipsHide'>
+<form accept-charset='utf-8' method='post' action='https://rage.mp/login/'>
+<input type="hidden" name="csrfKey" value="d95975b81452b665130291d7e505ce52">
+<input type="hidden" name="ref" value="aHR0cHM6Ly9yYWdlLm1wLw==">
+<div data-role="loginForm">
+<div class="ipsPad ipsForm ipsForm_vertical">
+<h4 class="ipsType_sectionHead">Sign In</h4>
+<br><br>
+<ul class='ipsList_reset'>
+<li class="ipsFieldRow ipsFieldRow_noLabel ipsFieldRow_fullWidth">
+<input type="text" placeholder="Display Name or Email Address" name="auth" autocomplete="email">
+</li>
+<li class="ipsFieldRow ipsFieldRow_noLabel ipsFieldRow_fullWidth">
+<input type="password" placeholder="Password" name="password" autocomplete="current-password">
+</li>
+<li class="ipsFieldRow ipsFieldRow_checkbox ipsClearfix">
+<span class="ipsCustomInput">
+<input type="checkbox" name="remember_me" id="remember_me_checkbox" value="1" checked aria-checked="true">
+<span></span>
+</span>
+<div class="ipsFieldRow_content">
+<label class="ipsFieldRow_label" for="remember_me_checkbox">Remember me</label>
+<span class="ipsFieldRow_desc">Not recommended on shared computers</span>
+</div>
+</li>
+<li class="ipsFieldRow ipsFieldRow_fullWidth">
+<button type="submit" name="_processLogin" value="usernamepassword" class="ipsButton ipsButton_primary ipsButton_small" id="elSignIn_submit">Sign In</button>
+<p class="ipsType_right ipsType_small">
+<a href='https://rage.mp/lostpassword/' data-ipsDialog data-ipsDialog-title='Forgot your password?'>
+Forgot your password?</a>
+</p>
+</li>
+</ul>
+</div>
+</div>
+</form>
+</div>
+</li>
+<li>
+<a href='https://rage.mp/register/' data-ipsDialog data-ipsDialog-size='narrow' data-ipsDialog-title='Sign Up' id='elRegisterButton' class='ipsButton ipsButton_normal ipsButton_primary'>Sign Up</a>
+</li>
+</ul>
+</div>
+</div>
+<div style="clear: both"></div>
+</div>
+<div id='ipsLayout_header' class='ipsClearfix'>
+<ul id='elMobileNav' class='ipsResponsive_hideDesktop' data-controller='core.front.core.mobileNav'>
+<li>
+<a data-action="defaultStream" href='https://rage.mp/discover/'><i class="fa fa-newspaper-o" aria-hidden="true"></i></a>
+</li>
+<li class='ipsJS_show'>
+<a href='https://rage.mp/search/'><i class='fa fa-search'></i></a>
+</li>
+</ul>
+</div>
+<div id="f_bg"></div>
+<main role="home" id="ipsLayout_body" class="ipsLayout_container">
+<header>
+<div class="_header_bg"></div>
+<div class="_logo"></div>
+<div class="_info_wrapper">
+<div class="container _np">
+<div class="row">
+<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 _np">
+<h2>Fun, Free and Easy</h2>
+<h1>Begin your journey now!</h1>
+<h3>Play with your friends, host a server, create a community or create an entirely new gamemode. <br>
+RAGE MP has no limits and gives you total control over everything. The only limit is your imagination!</h3>
+<div style="padding: 30px 120px">
+<a class="ipsButton ipsButton_veryLarge ipsButton_important mainpage_downloadb" style="padding:0 80px; font-size: 20px; font-weight: bold;" href="https://cdn.rage.mp/public/files/RAGEMultiplayer_Setup.exe">DOWNLOAD</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<img src="/Vilr6z7.webp" id="woman" loading="lazy">
+</header>
+<div class="_content_wrapper">
+<div class="_slider_main_wrapper">
+<div class="container _np">
+<div class="row">
+<div class="col-lg-6 col-md-6 col-sm-6 _np_mobile">
+<div class="_slider" id="mainSlider">
+<div class="_slider_background hidden-sm hidden-xs" id="main-slider-background" style="background-image: url(https://rage.mp/uploads/pages_media/1_slider_bg_01.jpg)">
+<img class="_slider_content_background" id="main-slider-img" src="https://rage.mp/uploads/pages_media/1_slider_second_bg_01.png">
+</div>
+<div class="_slider_description_wrapper">
+<div id="content_slider_dots">
+<ul id="main-slider-dots" class="_slider_dots">
+<li class="slick-active">
+<button type="button">1</button>
+</li>
+<li>
+<button type="button">2</button>
+</li>
+</ul>
+</div>
+<div id="content_slider">
+<div class="main-slider-content">
+<h2>Are you a developer?</h2>
+<h1>Make your dreams come true!</h1>
+<div class="_description">
+<p>Create scripts using our powerful API, host your server and unleash your creativity.</p>
+ <p>Creating a gamemode has never been so easy before!</p>
+<a href="https://cdn.rage.mp/updater/prerelease/updater.exe">Download Server Files</a>
+</div>
+</div>
+<div class="main-slider-content hidden">
+<h2>Are you a gamer?</h2>
+<h1>Launch and play...</h1>
+<div class="_description">
+<p>Have you ever imagined playing on a server with hundreds of players, at the same time?</p>
+<p> Stop dreaming, because your dreams just became a reality. Download the client files, start up RAGE and join a server!</p>
+<a href="https://cdn.rage.mp/updater/prerelease/updater.exe">Download Client Files</a>
+</div>
+</div>
+</div>
+<div id="content_slider_line" class="_loading_line"></div>
+</div>
+</div>
+</div>
+<div class="col-lg-6 col-md-6 col-sm-6 _np_mobile">
+<div class="_video">
+<div class="_character_bg woman"></div>
+<iframe loading="lazy" width="100%" height="350" src="https://www.youtube.com/embed/gs_2zVSDLzw" frameborder="0" allowfullscreen=""></iframe>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div></main>
+<footer id='ipsLayout_footer' class='ipsClearfix'>
+<div class='ipsLayout_container'>
+<div class="_features" id="backgrounds">
+<div class="_features_bg" style="background-image: url(https://rage.mp/uploads/set_resources_7/d51b75c5de63d1eb02d704692202eeae_features_bg_01.jpg)"></div>
+<div class="_features_bg hidden" style="background-image: url(https://rage.mp/uploads/set_resources_7/d51b75c5de63d1eb02d704692202eeae_features_bg_02.jpg)"></div>
+<div class="_features_bg hidden" style="background-image: url(https://rage.mp/uploads/set_resources_7/d51b75c5de63d1eb02d704692202eeae_features_bg_03.jpg)"></div>
+<div class="_features_contacts_wrapper">
+<div class="container _np _np_mobile">
+<div class="row">
+<div class="col-lg-12 _np_mobile">
+<div class="_features_contacts">
+<a class="_social discord" href="https://discord.gg/tChBaeu" target="_blank"></a>
+<a class="_social youtube" href="https://www.youtube.com/c/ragemp" target="_blank"></a>
+<a class="_social reddit" href="https://www.reddit.com/r/ragemp/" target="_blank"></a>
+<a class="_social twitter" href="https://twitter.com/ragemultiplayer" target="_blank"></a>
+<a class="_social facebook" href="https://www.facebook.com/ragemultiplayer/" target="_blank"></a>
+
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="container _np" id="footerSlider">
+<div class="row">
+<div class="col-lg-5 col-md-5 col-sm-4 _second_bg hidden-xs _np_mobile" id="imgs">
+<img class="_features_second_bg" data-id="0" src="https://rage.mp/uploads/set_resources_7/d51b75c5de63d1eb02d704692202eeae_features_second_bg_01.png" alt="">
+<img class="_features_second_bg dn" data-id="1" src="https://rage.mp/uploads/set_resources_7/d51b75c5de63d1eb02d704692202eeae_features_second_bg_02.png" alt="">
+<img class="_features_second_bg dn" data-id="2" src="https://rage.mp/uploads/set_resources_7/d51b75c5de63d1eb02d704692202eeae_features_second_bg_03.png" alt="">
+</div>
+<div class="col-lg-7 col-md-7 col-sm-8 _second_bg _np_mobile">
+<div id="features_slider">
+<div class="_features_description">
+<h2>Well-synchronized and well-optimized</h2>
+<h1>Smooth, accurate and fps-lossless</h1>
+<p>
+We've spent a lot of our time to make your multiplayer gaming experience as good as you have never saw before.<br />
+Having same FPS as you have in singleplayer, you will see smooth and accurate synchronization while playing RAGE Multiplayer.
+</p>
+</div>
+<div class="_features_description hidden">
+<h2>NodeJS</h2>
+<h1>RAGE MP uses NodeJS serverside and JS clientside</h1>
+<p>
+Feel free to use tonns of NodeJS modules that are supported by RAGE Multiplayer<br />
+and enjoy Google's fastest yet V8 engine!
+</p>
+</div>
+<div class="_features_description hidden">
+<h2>Create beautiful user interfaces</h2>
+<h1>powered by Chromium Embedded Framework</h1>
+<p>
+The next generation of graphics user interface<br>
+With CEF you're able to create UI overlays with HTML, CSS, JS and WebGL! Isn't this awesome?
+</p>
+</div>
+<ul id="slider-dots" class="_slider_dots" style="display: none;">
+<li class="slick-active"><button type="button">1</button></li>
+<li><button type="button">2</button></li>
+<li><button type="button">3</button></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div id="_features_slider_line"></div>
+</div>
+<div class="_copyright">
+<div class="container _np">
+<div class="row">
+<div class="col-lg-12 _np">
+<div class="_languages">
+<form action="//rage.mp/language/?csrfKey=d95975b81452b665130291d7e505ce52" method="post">
+<button type='submit' name='id' value='1' class='_lang  selected'><i class='ipsFlag ipsFlag-us'></i> English (USA)</button>
+</form>
+<form action="//rage.mp/language/?csrfKey=d95975b81452b665130291d7e505ce52" method="post">
+<button type='submit' name='id' value='3' class='_lang '><i class='ipsFlag ipsFlag-de'></i> Deutsch</button>
+</form>
+<form action="//rage.mp/language/?csrfKey=d95975b81452b665130291d7e505ce52" method="post">
+<button type='submit' name='id' value='2' class='_lang '><i class='ipsFlag ipsFlag-ru'></i> Русский</button>
+</form>
+</div>
+<div class="_text">
+<p>
+Grand Theft Auto and Grand Theft Auto: V are registered trademarks of
+Take-Two Interactive Software<br>
+RAGE Multiplayer (rage.mp) is not affiliated with or endorsed by Take-Two Interactive
+Software and not responsible for user-made servers.<br><br>
+© 2007-2016. Take-Two Interactive Software and its subsidiaries. All other marks and trademarks
+are the property of their respective owners. All rights reserved<br><br>
+© 2016 - the rage:multiplayer Team!
+</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="hidden"></div>
+<p id='elCopyright'>
+<span id='elCopyright_userLine'></span>
+<a rel='nofollow' title='Invision Community' href='https://www.invisioncommunity.com/'>Powered by Invision Community</a>
+</p>
+</div>
+</footer>
+<div id='elMobileDrawer' class='ipsDrawer ipsHide'>
+<div class='ipsDrawer_menu'>
+<a href='#' class='ipsDrawer_close' data-action='close'><span>&times;</span></a>
+<div class='ipsDrawer_content ipsFlex ipsFlex-fd:column'>
+<div class='ipsPadding ipsBorder_bottom'>
+<ul class='ipsToolList ipsToolList_vertical'>
+<li>
+<a href='https://rage.mp/login/' id='elSigninButton_mobile' class='ipsButton ipsButton_light ipsButton_small ipsButton_fullWidth'>Existing user? Sign In</a>
+</li>
+<li>
+<a href='https://rage.mp/register/' data-ipsDialog data-ipsDialog-size='narrow' data-ipsDialog-title='Sign Up' data-ipsDialog-fixed='true' id='elRegisterButton_mobile' class='ipsButton ipsButton_small ipsButton_fullWidth ipsButton_important'>Sign Up</a>
+</li>
+</ul>
+</div>
+<ul class='ipsDrawer_list ipsFlex-flex:11'>
+<li><a href='https://rage.mp'>Home</a></li>
+<li class='ipsDrawer_itemParent'>
+<h4 class='ipsDrawer_title'><a href='#'>Forums</a></h4>
+<ul class='ipsDrawer_list'>
+<li data-action="back"><a href='#'>Back</a></li>
+<li>
+<a href='https://rage.mp/forums/'>
+Forums
+</a>
+</li>
+<li>
+<a href='https://rage.mp/staff/'>
+Staff
+</a>
+</li>
+<li>
+<a href='https://rage.mp/online/'>
+Online Users
+</a>
+</li>
+</ul>
+</li>
+<li><a href='https://wiki.rage.mp/' target='_blank' rel="noopener">Wiki</a></li>
+<li><a href='https://rage.mp/files/'>Resources</a></li>
+<li><a href='https://rage.mp/masterlist/'>Masterlist</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div id='elMobileCreateMenuDrawer' class='ipsDrawer ipsHide'>
+<div class='ipsDrawer_menu'>
+<a href='#' class='ipsDrawer_close' data-action='close'><span>&times;</span></a>
+<div class='ipsDrawer_content ipsSpacer_bottom ipsPad'>
+<ul class='ipsDrawer_list'>
+<li class="ipsDrawer_listTitle ipsType_reset">Create New...</li>
+</ul>
+</div>
+</div>
+</div>
+<script type="03b01ca3c1ebd9d9ea3c3481-text/javascript">
+		var ipsDebug = false;		
+	
+		var CKEDITOR_BASEPATH = '//rage.mp/applications/core/interface/ckeditor/ckeditor/';
+	
+		var ipsSettings = {
+			
+			
+			cookie_path: "/",
+			
+			cookie_prefix: "ips4_",
+			
+			
+			cookie_ssl: true,
+			
+			upload_imgURL: "",
+			message_imgURL: "",
+			notification_imgURL: "",
+			baseURL: "//rage.mp/",
+			jsURL: "//rage.mp/applications/core/interface/js/js.php",
+			csrfKey: "d95975b81452b665130291d7e505ce52",
+			antiCache: "15e03a22921625168499",
+			jsAntiCache: "15e03a22921628301695",
+			disableNotificationSounds: true,
+			useCompiledFiles: true,
+			links_external: true,
+			memberID: 0,
+			lazyLoadEnabled: true,
+			blankImg: "//rage.mp/applications/core/interface/js/spacer.png",
+			analyticsProvider: "none",
+			viewProfiles: true,
+			mapProvider: 'none',
+			mapApiKey: '',
+			pushPublicKey: "BPVMpQpfr2DWYrDQskJv88QNNxgVn-saeuqnWeYd_5jkOhc3vVt3pHencTYHbILAup7pctD2VbW9cFYBCZE5gus",
+			relativeDates: true
+		};
+		
+		
+		
+		
+			ipsSettings['maxImageDimensions'] = {
+				width: 1200,
+				height: 5000
+			};
+		
+		
+	</script>
+<script type="03b01ca3c1ebd9d9ea3c3481-text/javascript" src='https://rage.mp/uploads/javascript_global/root_library.js?v=15e03a22921628301695' data-ips></script>
+<script type="03b01ca3c1ebd9d9ea3c3481-text/javascript" src='https://rage.mp/uploads/javascript_global/root_js_lang_1.js?v=15e03a22921628301695' data-ips></script>
+<script type="03b01ca3c1ebd9d9ea3c3481-text/javascript" src='https://rage.mp/uploads/javascript_global/root_framework.js?v=15e03a22921628301695' data-ips></script>
+<script type="03b01ca3c1ebd9d9ea3c3481-text/javascript" src='https://rage.mp/uploads/javascript_core/global_global_core.js?v=15e03a22921628301695' data-ips></script>
+<script type="03b01ca3c1ebd9d9ea3c3481-text/javascript" src='https://rage.mp/uploads/javascript_global/root_front.js?v=15e03a22921628301695' data-ips></script>
+<script type="03b01ca3c1ebd9d9ea3c3481-text/javascript" src='https://rage.mp/uploads/javascript_core/front_front_core.js?v=15e03a22921628301695' data-ips></script>
+<script type="03b01ca3c1ebd9d9ea3c3481-text/javascript" src='https://rage.mp/uploads/page_objects/mainProgress.js.219ebb08dd94d9018d5176d9feb38d85.js?v=15e03a22921628301695' data-ips></script>
+<script type="03b01ca3c1ebd9d9ea3c3481-text/javascript" src='https://rage.mp/uploads/page_objects/progress.js.e8390012e63971f4ae0682a738c3489a.js?v=15e03a22921628301695' data-ips></script>
+<script type="03b01ca3c1ebd9d9ea3c3481-text/javascript" src='https://rage.mp/uploads/page_objects/sss.js.90534bb84726fee559cf3959a0e0601e.js?v=15e03a22921628301695' data-ips></script>
+<script type="03b01ca3c1ebd9d9ea3c3481-text/javascript">
+		
+			ips.setSetting( 'date_format', jQuery.parseJSON('"mm\/dd\/yy"') );
+		
+			ips.setSetting( 'date_first_day', jQuery.parseJSON('0') );
+		
+			ips.setSetting( 'ipb_url_filter_option', jQuery.parseJSON('"black"') );
+		
+			ips.setSetting( 'url_filter_any_action', jQuery.parseJSON('"allow"') );
+		
+			ips.setSetting( 'bypass_profanity', jQuery.parseJSON('0') );
+		
+			ips.setSetting( 'emoji_style', jQuery.parseJSON('"native"') );
+		
+			ips.setSetting( 'emoji_shortcodes', jQuery.parseJSON('true') );
+		
+			ips.setSetting( 'emoji_ascii', jQuery.parseJSON('true') );
+		
+			ips.setSetting( 'emoji_cache', jQuery.parseJSON('1624442469') );
+		
+			ips.setSetting( 'image_jpg_quality', jQuery.parseJSON('100') );
+		
+			ips.setSetting( 'cloud2', jQuery.parseJSON('false') );
+		
+		
+	</script>
+<script type='application/ld+json'>
+{
+    "@context": "http://www.schema.org",
+    "publisher": "https://rage.mp/#organization",
+    "@type": "WebSite",
+    "@id": "https://rage.mp/#website",
+    "mainEntityOfPage": "https://rage.mp/",
+    "name": "RAGE Multiplayer Community",
+    "url": "https://rage.mp/",
+    "potentialAction": {
+        "type": "SearchAction",
+        "query-input": "required name=query",
+        "target": "https://rage.mp/search/?q={query}"
+    },
+    "inLanguage": [
+        {
+            "@type": "Language",
+            "name": "English (USA)",
+            "alternateName": "en-US"
+        },
+        {
+            "@type": "Language",
+            "name": "Deutsch",
+            "alternateName": "de-DE"
+        },
+        {
+            "@type": "Language",
+            "name": "\u0420\u0443\u0441\u0441\u043a\u0438\u0439",
+            "alternateName": "ru-RU"
+        }
+    ]
+}	
+</script>
+<script type='application/ld+json'>
+{
+    "@context": "http://www.schema.org",
+    "@type": "Organization",
+    "@id": "https://rage.mp/#organization",
+    "mainEntityOfPage": "https://rage.mp/",
+    "name": "RAGE Multiplayer Community",
+    "url": "https://rage.mp/",
+    "logo": {
+        "@type": "ImageObject",
+        "@id": "https://rage.mp/#logo",
+        "url": "https://rage.mp/uploads/monthly_2017_02/logo.png.8b01422d5a98c624bb18227f5f1c7b53.png"
+    }
+}	
+</script>
+
+
+<script type="application/ld+json">
+      {
+        "@context" : "https://schema.org",
+        "@type" : "Organization",
+        "name" : "RAGE Multiplayer",
+        "url" : "https://rage.mp",
+        "sameAs" : [
+          "https://vk.com/ragemp",
+        ]
+      }
+      </script>
+<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="03b01ca3c1ebd9d9ea3c3481-|49" defer=""></script></body>
+</html>

@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta content="text/html;charset=utf-8" http-equiv="Content-Type">
+<meta content="utf-8" http-equiv="encoding">
+<title>GTA World Interactive Map</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/js/all.min.js" integrity="sha256-KzZiKy0DWYsnwMF+X1DvQngQ2/FxF7MF3Ff72XcpuPs=" crossorigin="anonymous"></script>
+<script src="https://code.jquery.com/jquery-3.5.1.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
+<link href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+<script src="https://www.google.com/recaptcha/api.js" async defer></script>
+<style>
+		w3.main {
+			height: 100vh;
+		}
+
+		.w3-c2 {
+			background-color: #000000;
+			height: 90vh;
+		}
+
+		a {
+			text-decoration: none !important;
+		}
+
+		input[type=submit] {
+			display: inline-block;
+			padding: 0.3em 1.2em;
+			margin: 0 0.1em 0.1em 0;
+			border: 0.16em solid rgba(255, 255, 255, 0);
+			border-radius: 2em;
+			box-sizing: border-box;
+			text-decoration: none;
+			font-family: 'Roboto', sans-serif;
+			font-weight: 300;
+			color: #FFFFFF;
+			text-shadow: 0 0.04em 0.04em rgba(0, 0, 0, 0.35);
+			text-align: center;
+			transition: all 0.2s;
+		}
+
+		input[type=submit]:hover {
+			border-color: rgba(255, 255, 255, 1);
+		}
+
+		@media all and (max-width:30em) {
+			input[type=submit] {
+				display: block;
+				margin: 0.2em auto;
+			}
+		}
+	</style>
+</head>
+<body>
+<div class="w3-sidebar w3-bar-block w3-dark-grey w3-collapse w3-card w3-animate-left" style="width:200px;" id="mySidebar">
+<button class="w3-bar-item w3-button w3-large w3-hide-large" onclick="w3_close()">Close &times;</button>
+<a href="4sale.php" class="w3-bar-item w3-button"><img src="blips/house.png"> Houses For Sale</a>
+<a href="4rent.php" class="w3-bar-item w3-button"><img src="blips/rent.png"> Houses For Rent</a>
+<a href="biz.php" class="w3-bar-item w3-button"><img src="blips/bar.png" height="16px"> Businesses Map</a>
+<a href="election.php" class="w3-bar-item w3-button"><img src="blips/Blip_267.png" height="16px"> District Map</a>
+<button type="button" class="w3-bar-item w3-button" id="btnPopup" data-toggle="modal" data-target="#mapModal">
+<i class="far fa-question-circle"></i> Map not working
+</button>
+</div>
+<div class="w3-main" style="margin-left:200px">
+<div class="w3-amber">
+<button class="w3-button w3-amber w3-xlarge w3-hide-large" onclick="w3_open()">&#9776;</button>
+<div class="w3-container">
+<h1 style="font-weight:400;padding:10px;">GTA World Interactive Map V3.0</h1>
+</div>
+</div>
+<div style="margin-top: 100px; margin-left: 80px;">
+<form method="POST">
+<div class="g-recaptcha" data-sitekey=6Lf3LHMUAAAAANLNe12hMzHo9TJKRlJN9ZiFQP7R></div>
+<br />
+<input type="submit" value="Submit Captcha" name="submitpost" style="background-color:#f1bb4e">
+</form>
+</div>
+<div id="map" style="display:none" class="w3-c2">
+<iframe name="me" src="biz.php" style="width: 100%; height: 100%; overflow: hidden; border:none;"></iframe>
+</div>
+<div class="modal fade" id="mapModal" tabindex="-1" role="dialog" aria-labelledby="mapModal" aria-hidden="true">
+<div class="modal-dialog" role="document">
+<div class="modal-content">
+<div class="modal-header">
+<h5 class="modal-title" id="exampleModalLabel">Map not working</h5>
+<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+<span aria-hidden="true">&times;</span>
+</button>
+</div>
+<div class="modal-body">
+Please enable <b>hardware acceleration</b> in your browser for the map to work!
+</div>
+</div>
+</div>
+</div>
+</div>
+<script>
+		function w3_open() {
+			document.getElementById("mySidebar").style.display = "block";
+		}
+
+		function w3_close() {
+			document.getElementById("mySidebar").style.display = "none";
+		}
+	</script>
+</body>
+</html>
