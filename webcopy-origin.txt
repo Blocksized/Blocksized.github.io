@@ -1,0 +1,1492 @@
+Uri: https://gta.world/
+File Name: D:\Sergio\Programacion\webs\gta.world\index.htm
+Content Type: text/html
+
+Uri: https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.css
+File Name: D:\Sergio\Programacion\webs\gta.world\npm\cookieconsent@3\build\cookieconsent.min.css
+Content Type: text/css
+
+Uri: https://gta.world/homepage/img/favicon.ico
+File Name: D:\Sergio\Programacion\webs\gta.world\homepage\img\favicon.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://gta.world/homepage/css/bootstrap.min.css
+File Name: D:\Sergio\Programacion\webs\gta.world\homepage\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://gta.world/homepage/css/animate.min.css
+File Name: D:\Sergio\Programacion\webs\gta.world\homepage\css\animate.min.css
+Content Type: text/css
+
+Uri: https://gta.world/homepage/css/magnific-popup.css
+File Name: D:\Sergio\Programacion\webs\gta.world\homepage\css\magnific-popup.css
+Content Type: text/css
+
+Uri: https://gta.world/homepage/css/fontawesome-all.min.css
+File Name: D:\Sergio\Programacion\webs\gta.world\homepage\css\fontawesome-all.min.css
+Content Type: text/css
+
+Uri: https://gta.world/homepage/css/odometer.css
+File Name: D:\Sergio\Programacion\webs\gta.world\homepage\css\odometer.css
+Content Type: text/css
+
+Uri: https://gta.world/homepage/css/aos.css
+File Name: D:\Sergio\Programacion\webs\gta.world\homepage\css\aos.css
+Content Type: text/css
+
+Uri: https://gta.world/homepage/css/owl.carousel.min.css
+File Name: D:\Sergio\Programacion\webs\gta.world\homepage\css\owl.carousel.min.css
+Content Type: text/css
+
+Uri: https://gta.world/homepage/css/meanmenu.css
+File Name: D:\Sergio\Programacion\webs\gta.world\homepage\css\meanmenu.css
+Content Type: text/css
+
+Uri: https://gta.world/homepage/css/slick.css
+File Name: D:\Sergio\Programacion\webs\gta.world\homepage\css\slick.css
+Content Type: text/css
+
+Uri: https://gta.world/homepage/css/default.css
+File Name: D:\Sergio\Programacion\webs\gta.world\homepage\css\default.css
+Content Type: text/css
+
+Uri: https://gta.world/homepage/css/style.css?v=8
+File Name: D:\Sergio\Programacion\webs\gta.world\homepage\css\style.css
+Content Type: text/css
+
+Uri: https://gta.world/homepage/css/responsive.css
+File Name: D:\Sergio\Programacion\webs\gta.world\homepage\css\responsive.css
+Content Type: text/css
+
+Uri: https://gta.world/homepage/vendor/orlandotm/payment-webfont/style.css
+File Name: D:\Sergio\Programacion\webs\gta.world\homepage\vendor\orlandotm\payment-webfont\style.css
+Content Type: text/css
+
+Uri: https://rage.mp/
+File Name: D:\Sergio\Programacion\webs\gta.world\index-1.htm
+Content Type: text/html
+
+Uri: https://forum.gta.world/en/
+File Name: D:\Sergio\Programacion\webs\gta.world\en\index.htm
+Content Type: text/html
+
+Uri: https://gta.world/cdn-cgi/l/email-protection
+File Name: D:\Sergio\Programacion\webs\gta.world\cdn-cgi\l\email-protection.html
+Content Type: text/html
+
+Uri: https://www.youtube.com/watch?v=3vccGq1gY_o
+File Name: D:\Sergio\Programacion\webs\gta.world\watch.html
+Content Type: text/html
+
+Uri: https://forum.gta.world/en/forum/113-features-showcase/
+File Name: D:\Sergio\Programacion\webs\gta.world\en\forum\113-features-showcase\index.htm
+Content Type: text/html
+
+Uri: https://forum.gta.world/en/topic/878-los-santos-police-department/
+File Name: D:\Sergio\Programacion\webs\gta.world\en\topic\878-los-santos-police-department\index.htm
+Content Type: text/html
+
+Uri: https://forum.gta.world/en/topic/1512-los-santos-fire-department/
+File Name: D:\Sergio\Programacion\webs\gta.world\en\topic\1512-los-santos-fire-department\index.htm
+Content Type: text/html
+
+Uri: https://forum.gta.world/en/topic/18219-los-santos-county-sheriffs-department/
+File Name: D:\Sergio\Programacion\webs\gta.world\en\topic\18219-los-santos-county-sheriffs-department\index.htm
+Content Type: text/html
+
+Uri: https://forum.gta.world/en/forum/417-business-section/
+File Name: D:\Sergio\Programacion\webs\gta.world\en\forum\417-business-section\index.htm
+Content Type: text/html
+
+Uri: https://forum.gta.world/en/topic/26281-farming/
+File Name: D:\Sergio\Programacion\webs\gta.world\en\topic\26281-farming\index.htm
+Content Type: text/html
+
+Uri: https://forum.gta.world/en/topic/4697-garage-chop-shops/
+File Name: D:\Sergio\Programacion\webs\gta.world\en\topic\4697-garage-chop-shops\index.htm
+Content Type: text/html
+
+Uri: https://forum.gta.world/en/topic/2933-taxi-job/
+File Name: D:\Sergio\Programacion\webs\gta.world\en\topic\2933-taxi-job\index.htm
+Content Type: text/html
+
+Uri: https://forum.gta.world/en/topic/4072-roleplay-guide/
+File Name: D:\Sergio\Programacion\webs\gta.world\en\topic\4072-roleplay-guide\index.htm
+Content Type: text/html
+
+Uri: https://gta.world/terms
+File Name: D:\Sergio\Programacion\webs\gta.world\terms.html
+Content Type: text/html
+
+Uri: https://gta.world/gw-AF
+File Name: D:\Sergio\Programacion\webs\gta.world\gw-AF.html
+Content Type: text/html
+
+Uri: https://www.facebook.com/gtawroleplay/
+File Name: D:\Sergio\Programacion\webs\gta.world\gtawroleplay\index.htm
+Content Type: text/html
+
+Uri: https://twitter.com/gtawrp
+File Name: D:\Sergio\Programacion\webs\gta.world\gtawrp.html
+Content Type: text/html
+
+Uri: https://gta.world/homepage/img/icon/preloader.svg
+File Name: D:\Sergio\Programacion\webs\gta.world\homepage\img\icon\preloader.svg
+Content Type: image/svg+xml
+
+Uri: https://gta.world/newsite/assets/images/gtaw/logo.png
+File Name: D:\Sergio\Programacion\webs\gta.world\newsite\assets\images\gtaw\logo.png
+Content Type: image/png
+
+Uri: https://gta.world/homepage/img/images/icon-cop.png
+File Name: D:\Sergio\Programacion\webs\gta.world\homepage\img\images\icon-cop.png
+Content Type: image/png
+
+Uri: https://gta.world/homepage/img/images/icon-medic.png
+File Name: D:\Sergio\Programacion\webs\gta.world\homepage\img\images\icon-medic.png
+Content Type: image/png
+
+Uri: https://gta.world/homepage/img/images/icon-sheriff.png
+File Name: D:\Sergio\Programacion\webs\gta.world\homepage\img\images\icon-sheriff.png
+Content Type: image/png
+
+Uri: https://gta.world/homepage/img/images/icon-modern-pistol.png
+File Name: D:\Sergio\Programacion\webs\gta.world\homepage\img\images\icon-modern-pistol.png
+Content Type: image/png
+
+Uri: https://gta.world/homepage/img/images/icon-mobster.png
+File Name: D:\Sergio\Programacion\webs\gta.world\homepage\img\images\icon-mobster.png
+Content Type: image/png
+
+Uri: https://gta.world/homepage/img/images/icon-handcuffs.png
+File Name: D:\Sergio\Programacion\webs\gta.world\homepage\img\images\icon-handcuffs.png
+Content Type: image/png
+
+Uri: https://gta.world/homepage/img/images/icon-wrench.png
+File Name: D:\Sergio\Programacion\webs\gta.world\homepage\img\images\icon-wrench.png
+Content Type: image/png
+
+Uri: https://gta.world/homepage/img/product/furniture_system.png
+File Name: D:\Sergio\Programacion\webs\gta.world\homepage\img\product\furniture_system.png
+Content Type: image/png
+
+Uri: https://gta.world/homepage/img/product/business_system.png
+File Name: D:\Sergio\Programacion\webs\gta.world\homepage\img\product\business_system.png
+Content Type: image/png
+
+Uri: https://gta.world/homepage/img/product/faction_system.png
+File Name: D:\Sergio\Programacion\webs\gta.world\homepage\img\product\faction_system.png
+Content Type: image/png
+
+Uri: https://gta.world/homepage/img/product/business_system2.png
+File Name: D:\Sergio\Programacion\webs\gta.world\homepage\img\product\business_system2.png
+Content Type: image/png
+
+Uri: https://gta.world/homepage/img/images/video_image.png
+File Name: D:\Sergio\Programacion\webs\gta.world\homepage\img\images\video_image.png
+Content Type: image/png
+
+Uri: https://gta.world/homepage/img/icon/play_btn.png
+File Name: D:\Sergio\Programacion\webs\gta.world\homepage\img\icon\play_btn.png
+Content Type: image/png
+
+Uri: https://gta.world/homepage/img/images/logo_rage_y.png
+File Name: D:\Sergio\Programacion\webs\gta.world\homepage\img\images\logo_rage_y.png
+Content Type: image/png
+
+Uri: https://gta.world/homepage/img/images/lightening.png
+File Name: D:\Sergio\Programacion\webs\gta.world\homepage\img\images\lightening.png
+Content Type: image/png
+
+Uri: https://gta.world/homepage/img/images/checkmark.png
+File Name: D:\Sergio\Programacion\webs\gta.world\homepage\img\images\checkmark.png
+Content Type: image/png
+
+Uri: https://gta.world/homepage/img/images/lspd.png
+File Name: D:\Sergio\Programacion\webs\gta.world\homepage\img\images\lspd.png
+Content Type: image/png
+
+Uri: https://gta.world/homepage/img/images/lsfd.png
+File Name: D:\Sergio\Programacion\webs\gta.world\homepage\img\images\lsfd.png
+Content Type: image/png
+
+Uri: https://gta.world/homepage/img/images/lssd.png
+File Name: D:\Sergio\Programacion\webs\gta.world\homepage\img\images\lssd.png
+Content Type: image/png
+
+Uri: https://gta.world/homepage/img/images/truck.png
+File Name: D:\Sergio\Programacion\webs\gta.world\homepage\img\images\truck.png
+Content Type: image/png
+
+Uri: https://gta.world/homepage/img/images/furniture.png
+File Name: D:\Sergio\Programacion\webs\gta.world\homepage\img\images\furniture.png
+Content Type: image/png
+
+Uri: https://gta.world/homepage/img/images/health.png
+File Name: D:\Sergio\Programacion\webs\gta.world\homepage\img\images\health.png
+Content Type: image/png
+
+Uri: https://gta.world/homepage/img/images/farming.png
+File Name: D:\Sergio\Programacion\webs\gta.world\homepage\img\images\farming.png
+Content Type: image/png
+
+Uri: https://gta.world/homepage/img/images/mechanic.png
+File Name: D:\Sergio\Programacion\webs\gta.world\homepage\img\images\mechanic.png
+Content Type: image/png
+
+Uri: https://gta.world/homepage/img/images/taxi.png
+File Name: D:\Sergio\Programacion\webs\gta.world\homepage\img\images\taxi.png
+Content Type: image/png
+
+Uri: https://gta.world/homepage/img/images/male.png
+File Name: D:\Sergio\Programacion\webs\gta.world\homepage\img\images\male.png
+Content Type: image/png
+
+Uri: https://gta.world/homepage/img/images/business-man.png
+File Name: D:\Sergio\Programacion\webs\gta.world\homepage\img\images\business-man.png
+Content Type: image/png
+
+Uri: https://gta.world/homepage/img/images/group.png
+File Name: D:\Sergio\Programacion\webs\gta.world\homepage\img\images\group.png
+Content Type: image/png
+
+Uri: https://gta.world/homepage/img/images/buildings.png
+File Name: D:\Sergio\Programacion\webs\gta.world\homepage\img\images\buildings.png
+Content Type: image/png
+
+Uri: https://gta.world/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+File Name: D:\Sergio\Programacion\webs\gta.world\cdn-cgi\scripts\5c5dd728\cloudflare-static\email-decode.min.js
+Content Type: application/javascript
+
+Uri: https://gta.world/homepage/js/vendor/jquery-3.4.1.min.js
+File Name: D:\Sergio\Programacion\webs\gta.world\homepage\js\vendor\jquery-3.4.1.min.js
+Content Type: application/javascript
+
+Uri: https://gta.world/homepage/js/popper.min.js
+File Name: D:\Sergio\Programacion\webs\gta.world\homepage\js\popper.min.js
+Content Type: application/javascript
+
+Uri: https://gta.world/homepage/js/bootstrap.min.js
+File Name: D:\Sergio\Programacion\webs\gta.world\homepage\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://gta.world/homepage/js/isotope.pkgd.min.js
+File Name: D:\Sergio\Programacion\webs\gta.world\homepage\js\isotope.pkgd.min.js
+Content Type: application/javascript
+
+Uri: https://gta.world/homepage/js/slick.min.js
+File Name: D:\Sergio\Programacion\webs\gta.world\homepage\js\slick.min.js
+Content Type: application/javascript
+
+Uri: https://gta.world/homepage/js/jquery.meanmenu.min.js
+File Name: D:\Sergio\Programacion\webs\gta.world\homepage\js\jquery.meanmenu.min.js
+Content Type: application/javascript
+
+Uri: https://gta.world/homepage/js/wow.min.js
+File Name: D:\Sergio\Programacion\webs\gta.world\homepage\js\wow.min.js
+Content Type: application/javascript
+
+Uri: https://gta.world/homepage/js/aos.js
+File Name: D:\Sergio\Programacion\webs\gta.world\homepage\js\aos.js
+Content Type: application/javascript
+
+Uri: https://gta.world/homepage/js/jquery.lettering.js
+File Name: D:\Sergio\Programacion\webs\gta.world\homepage\js\jquery.lettering.js
+Content Type: application/javascript
+
+Uri: https://gta.world/homepage/js/jquery.textillate.js
+File Name: D:\Sergio\Programacion\webs\gta.world\homepage\js\jquery.textillate.js
+Content Type: application/javascript
+
+Uri: https://gta.world/homepage/js/jquery.odometer.min.js
+File Name: D:\Sergio\Programacion\webs\gta.world\homepage\js\jquery.odometer.min.js
+Content Type: application/javascript
+
+Uri: https://gta.world/homepage/js/jquery.appear.js
+File Name: D:\Sergio\Programacion\webs\gta.world\homepage\js\jquery.appear.js
+Content Type: application/javascript
+
+Uri: https://gta.world/homepage/js/owl.carousel.min.js
+File Name: D:\Sergio\Programacion\webs\gta.world\homepage\js\owl.carousel.min.js
+Content Type: application/javascript
+
+Uri: https://gta.world/homepage/js/jquery.countdown.min.js
+File Name: D:\Sergio\Programacion\webs\gta.world\homepage\js\jquery.countdown.min.js
+Content Type: application/javascript
+
+Uri: https://gta.world/homepage/js/jquery.scrollUp.min.js
+File Name: D:\Sergio\Programacion\webs\gta.world\homepage\js\jquery.scrollUp.min.js
+Content Type: application/javascript
+
+Uri: https://gta.world/homepage/js/imagesloaded.pkgd.min.js
+File Name: D:\Sergio\Programacion\webs\gta.world\homepage\js\imagesloaded.pkgd.min.js
+Content Type: application/javascript
+
+Uri: https://gta.world/homepage/js/jquery.magnific-popup.min.js
+File Name: D:\Sergio\Programacion\webs\gta.world\homepage\js\jquery.magnific-popup.min.js
+Content Type: application/javascript
+
+Uri: https://gta.world/homepage/js/plugins.js
+File Name: D:\Sergio\Programacion\webs\gta.world\homepage\js\plugins.js
+Content Type: application/javascript
+
+Uri: https://gta.world/homepage/js/main.js
+File Name: D:\Sergio\Programacion\webs\gta.world\homepage\js\main.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.1/jquery.cookie.min.js
+File Name: D:\Sergio\Programacion\webs\gta.world\ajax\libs\jquery-cookie\1.4.1\jquery.cookie.min.js
+Content Type: application/javascript
+
+Uri: https://cdn.jsdelivr.net/npm/js-cookie@2/src/js.cookie.min.js
+File Name: D:\Sergio\Programacion\webs\gta.world\npm\js-cookie@2\src\js.cookie.min.js
+Content Type: application/javascript
+
+Uri: https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.js
+File Name: D:\Sergio\Programacion\webs\gta.world\npm\cookieconsent@3\build\cookieconsent.min.js
+Content Type: application/javascript
+
+Uri: https://www.google.com/recaptcha/api.js?hl=en
+File Name: D:\Sergio\Programacion\webs\gta.world\recaptcha\api.js
+Content Type: text/javascript
+
+Uri: https://gta.world/homepage/fonts/fa-brands-400.eot
+File Name: D:\Sergio\Programacion\webs\gta.world\homepage\fonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://gta.world/homepage/fonts/fa-brands-400.eot?
+File Name: D:\Sergio\Programacion\webs\gta.world\homepage\fonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://gta.world/homepage/fonts/fa-brands-400.woff2
+File Name: D:\Sergio\Programacion\webs\gta.world\homepage\fonts\fa-brands-400.woff2
+Content Type: 
+
+Uri: https://gta.world/homepage/fonts/fa-brands-400.woff
+File Name: D:\Sergio\Programacion\webs\gta.world\homepage\fonts\fa-brands-400.woff
+Content Type: application/font-woff
+
+Uri: https://gta.world/homepage/fonts/fa-brands-400.ttf
+File Name: D:\Sergio\Programacion\webs\gta.world\homepage\fonts\fa-brands-400.ttf
+Content Type: application/font-sfnt
+
+Uri: https://gta.world/homepage/fonts/fa-brands-400.svg
+File Name: D:\Sergio\Programacion\webs\gta.world\homepage\fonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://gta.world/homepage/fonts/fa-regular-400.eot
+File Name: D:\Sergio\Programacion\webs\gta.world\homepage\fonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://gta.world/homepage/fonts/fa-regular-400.eot?
+File Name: D:\Sergio\Programacion\webs\gta.world\homepage\fonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://gta.world/homepage/fonts/fa-regular-400.woff2
+File Name: D:\Sergio\Programacion\webs\gta.world\homepage\fonts\fa-regular-400.woff2
+Content Type: 
+
+Uri: https://gta.world/homepage/fonts/fa-regular-400.woff
+File Name: D:\Sergio\Programacion\webs\gta.world\homepage\fonts\fa-regular-400.woff
+Content Type: application/font-woff
+
+Uri: https://gta.world/homepage/fonts/fa-regular-400.ttf
+File Name: D:\Sergio\Programacion\webs\gta.world\homepage\fonts\fa-regular-400.ttf
+Content Type: application/font-sfnt
+
+Uri: https://gta.world/homepage/fonts/fa-regular-400.svg
+File Name: D:\Sergio\Programacion\webs\gta.world\homepage\fonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://gta.world/homepage/fonts/fa-solid-900.eot
+File Name: D:\Sergio\Programacion\webs\gta.world\homepage\fonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://gta.world/homepage/fonts/fa-solid-900.eot?
+File Name: D:\Sergio\Programacion\webs\gta.world\homepage\fonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://gta.world/homepage/fonts/fa-solid-900.woff2
+File Name: D:\Sergio\Programacion\webs\gta.world\homepage\fonts\fa-solid-900.woff2
+Content Type: 
+
+Uri: https://gta.world/homepage/fonts/fa-solid-900.woff
+File Name: D:\Sergio\Programacion\webs\gta.world\homepage\fonts\fa-solid-900.woff
+Content Type: application/font-woff
+
+Uri: https://gta.world/homepage/fonts/fa-solid-900.ttf
+File Name: D:\Sergio\Programacion\webs\gta.world\homepage\fonts\fa-solid-900.ttf
+Content Type: application/font-sfnt
+
+Uri: https://gta.world/homepage/fonts/fa-solid-900.svg
+File Name: D:\Sergio\Programacion\webs\gta.world\homepage\fonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://gta.world/homepage/css/owl.video.play.png
+File Name: D:\Sergio\Programacion\webs\gta.world\homepage\css\owl.video.play.png.html
+Content Type: text/html
+
+Uri: https://gta.world/homepage/img/images/btn_overlay.png
+File Name: D:\Sergio\Programacion\webs\gta.world\homepage\img\images\btn_overlay.png
+Content Type: image/png
+
+Uri: https://gta.world/homepage/img/images/offer_count_bg.png
+File Name: D:\Sergio\Programacion\webs\gta.world\homepage\img\images\offer_count_bg.png
+Content Type: image/png
+
+Uri: https://gta.world/homepage/img/bg/header_bg.jpg
+File Name: D:\Sergio\Programacion\webs\gta.world\homepage\img\bg\header_bg.jpg
+Content Type: image/jpeg
+
+Uri: https://gta.world/homepage/img/bg/breadcrumb_bg.jpg
+File Name: D:\Sergio\Programacion\webs\gta.world\homepage\img\bg\breadcrumb_bg.jpg
+Content Type: image/jpeg
+
+Uri: https://gta.world/homepage/img/bg/breadcrumb_bg02.jpg
+File Name: D:\Sergio\Programacion\webs\gta.world\homepage\img\bg\breadcrumb_bg02.jpg
+Content Type: image/jpeg
+
+Uri: https://gta.world/homepage/img/bg/breadcrumb_bg03.jpg
+File Name: D:\Sergio\Programacion\webs\gta.world\homepage\img\bg\breadcrumb_bg03.jpg
+Content Type: image/jpeg
+
+Uri: https://gta.world/homepage/img/images/banner_blurred.webp
+File Name: D:\Sergio\Programacion\webs\gta.world\homepage\img\images\banner_blurred.webp
+Content Type: 
+
+Uri: https://gta.world/homepage/img/slider/slider_bg02.jpg
+File Name: D:\Sergio\Programacion\webs\gta.world\homepage\img\slider\slider_bg02.jpg
+Content Type: image/jpeg
+
+Uri: https://gta.world/homepage/img/bg/brand_bg.jpg
+File Name: D:\Sergio\Programacion\webs\gta.world\homepage\img\bg\brand_bg.jpg
+Content Type: image/jpeg
+
+Uri: https://gta.world/homepage/img/images/background_4.webp
+File Name: D:\Sergio\Programacion\webs\gta.world\homepage\img\images\background_4.webp
+Content Type: 
+
+Uri: https://gta.world/homepage/img/bg/area_bg02.jpg
+File Name: D:\Sergio\Programacion\webs\gta.world\homepage\img\bg\area_bg02.jpg
+Content Type: image/jpeg
+
+Uri: https://gta.world/homepage/img/images/title_bar.png
+File Name: D:\Sergio\Programacion\webs\gta.world\homepage\img\images\title_bar.png
+Content Type: image/png
+
+Uri: https://gta.world/homepage/img/images/title_bar02.png
+File Name: D:\Sergio\Programacion\webs\gta.world\homepage\img\images\title_bar02.png
+Content Type: image/png
+
+Uri: https://gta.world/homepage/img/bg/released_slide_bg.jpg
+File Name: D:\Sergio\Programacion\webs\gta.world\homepage\img\bg\released_slide_bg.jpg
+Content Type: image/jpeg
+
+Uri: https://gta.world/homepage/img/images/released_game_brush.png
+File Name: D:\Sergio\Programacion\webs\gta.world\homepage\img\images\released_game_brush.png
+Content Type: image/png
+
+Uri: https://gta.world/homepage/img/images/background_1.webp
+File Name: D:\Sergio\Programacion\webs\gta.world\homepage\img\images\background_1.webp
+Content Type: 
+
+Uri: https://gta.world/homepage/img/bg/featured_game_bg.png
+File Name: D:\Sergio\Programacion\webs\gta.world\homepage\img\bg\featured_game_bg.png
+Content Type: image/png
+
+Uri: https://gta.world/homepage/img/bg/cta_bg.jpg
+File Name: D:\Sergio\Programacion\webs\gta.world\homepage\img\bg\cta_bg.jpg
+Content Type: image/jpeg
+
+Uri: https://gta.world/homepage/img/bg/latest_match_bg.jpg
+File Name: D:\Sergio\Programacion\webs\gta.world\homepage\img\bg\latest_match_bg.jpg
+Content Type: image/jpeg
+
+Uri: https://gta.world/homepage/img/bg/just_gamer_bg.jpg
+File Name: D:\Sergio\Programacion\webs\gta.world\homepage\img\bg\just_gamer_bg.jpg
+Content Type: image/jpeg
+
+Uri: https://gta.world/homepage/img/images/gamers_bg_conve01.png
+File Name: D:\Sergio\Programacion\webs\gta.world\homepage\img\images\gamers_bg_conve01.png
+Content Type: image/png
+
+Uri: https://gta.world/homepage/img/images/gamers_bg_conve02.png
+File Name: D:\Sergio\Programacion\webs\gta.world\homepage\img\images\gamers_bg_conve02.png
+Content Type: image/png
+
+Uri: https://gta.world/homepage/img/images/title_bar03.png
+File Name: D:\Sergio\Programacion\webs\gta.world\homepage\img\images\title_bar03.png
+Content Type: image/png
+
+Uri: https://gta.world/homepage/img/bg/gamer_list_icon_bg.jpg
+File Name: D:\Sergio\Programacion\webs\gta.world\homepage\img\bg\gamer_list_icon_bg.jpg
+Content Type: image/jpeg
+
+Uri: https://gta.world/homepage/img/images/background_3.webp
+File Name: D:\Sergio\Programacion\webs\gta.world\homepage\img\images\background_3.webp
+Content Type: 
+
+Uri: https://gta.world/homepage/img/bg/upc_game_bg.jpg
+File Name: D:\Sergio\Programacion\webs\gta.world\homepage\img\bg\upc_game_bg.jpg
+Content Type: image/jpeg
+
+Uri: https://gta.world/homepage/img/bg/footer_bg.jpg
+File Name: D:\Sergio\Programacion\webs\gta.world\homepage\img\bg\footer_bg.jpg
+Content Type: image/jpeg
+
+Uri: https://gta.world/homepage/img/bg/s_footer_bg.jpg
+File Name: D:\Sergio\Programacion\webs\gta.world\homepage\img\bg\s_footer_bg.jpg
+Content Type: image/jpeg
+
+Uri: https://fonts.googleapis.com/css?family=Oxanium:400,500,600,700,800|Poppins:400,400i,500,500i,600,600i,700&display=swap
+File Name: D:\Sergio\Programacion\webs\gta.world\css.css
+Content Type: text/css
+
+Uri: https://gta.world/homepage/vendor/orlandotm/payment-webfont/fonts/payment-webfont.eot
+File Name: D:\Sergio\Programacion\webs\gta.world\homepage\vendor\orlandotm\payment-webfont\fonts\payment-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://discord.com/invite/bJGJEA9
+File Name: D:\Sergio\Programacion\webs\gta.world\invite\bJGJEA9.html
+Content Type: text/html
+
+Uri: https://ucp.gta.world/login
+File Name: D:\Sergio\Programacion\webs\gta.world\login.html
+Content Type: text/html
+
+Uri: https://gta.world/cdn-cgi/styles/cf.errors.css
+File Name: D:\Sergio\Programacion\webs\gta.world\cdn-cgi\styles\cf.errors.css
+Content Type: text/css
+
+Uri: https://support.cloudflare.com/hc/en-us/articles/200170016-What-is-Email-Address-Obfuscation-
+File Name: D:\Sergio\Programacion\webs\gta.world\hc\en-us\articles\200170016-What-is-Email-Address-Obfuscation-.html
+Content Type: text/html
+
+Uri: https://support.cloudflare.com/hc/en-us/categories/200275218-Getting-Started
+File Name: D:\Sergio\Programacion\webs\gta.world\hc\en-us\categories\200275218-Getting-Started.html
+Content Type: text/html
+
+Uri: https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800|Shadows+Into+Light
+File Name: D:\Sergio\Programacion\webs\gta.world\css-1.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.3.1/css/bootstrap.min.css
+File Name: D:\Sergio\Programacion\webs\gta.world\ajax\libs\twitter-bootstrap\4.3.1\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.min.css
+File Name: D:\Sergio\Programacion\webs\gta.world\ajax\libs\animate.css\3.7.0\animate.min.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css
+File Name: D:\Sergio\Programacion\webs\gta.world\ajax\libs\font-awesome\5.15.3\css\all.min.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/magnific-popup.min.css
+File Name: D:\Sergio\Programacion\webs\gta.world\ajax\libs\magnific-popup.js\1.1.0\magnific-popup.min.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/bootstrap-datepicker/1.8.0/css/bootstrap-datepicker3.min.css
+File Name: D:\Sergio\Programacion\webs\gta.world\ajax\libs\bootstrap-datepicker\1.8.0\css\bootstrap-datepicker3.min.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/bootstrap-timepicker/0.5.2/css/bootstrap-timepicker.min.css
+File Name: D:\Sergio\Programacion\webs\gta.world\ajax\libs\bootstrap-timepicker\0.5.2\css\bootstrap-timepicker.min.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.css
+File Name: D:\Sergio\Programacion\webs\gta.world\ajax\libs\jqueryui\1.12.1\jquery-ui.min.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.theme.min.css
+File Name: D:\Sergio\Programacion\webs\gta.world\ajax\libs\jqueryui\1.12.1\jquery-ui.theme.min.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/bootstrap-multiselect/0.9.15/css/bootstrap-multiselect.css
+File Name: D:\Sergio\Programacion\webs\gta.world\ajax\libs\bootstrap-multiselect\0.9.15\css\bootstrap-multiselect.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/morris.js/0.5.1/morris.css
+File Name: D:\Sergio\Programacion\webs\gta.world\ajax\libs\morris.js\0.5.1\morris.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.5/css/select2.min.css
+File Name: D:\Sergio\Programacion\webs\gta.world\ajax\libs\select2\4.0.5\css\select2.min.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/select2-bootstrap-css/1.4.6/select2-bootstrap.min.css
+File Name: D:\Sergio\Programacion\webs\gta.world\ajax\libs\select2-bootstrap-css\1.4.6\select2-bootstrap.min.css
+Content Type: text/css
+
+Uri: https://gta.world/UCP_V2/vendor/pnotify/pnotify.custom.css
+File Name: D:\Sergio\Programacion\webs\gta.world\UCP_V2\vendor\pnotify\pnotify.custom.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/bootstrap-markdown/2.10.0/css/bootstrap-markdown.min.css
+File Name: D:\Sergio\Programacion\webs\gta.world\ajax\libs\bootstrap-markdown\2.10.0\css\bootstrap-markdown.min.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/datatables/1.10.19/css/dataTables.bootstrap4.min.css
+File Name: D:\Sergio\Programacion\webs\gta.world\ajax\libs\datatables\1.10.19\css\dataTables.bootstrap4.min.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/datatables/1.10.19/css/dataTables.jqueryui.min.css
+File Name: D:\Sergio\Programacion\webs\gta.world\ajax\libs\datatables\1.10.19\css\dataTables.jqueryui.min.css
+Content Type: text/css
+
+Uri: https://cdn.datatables.net/responsive/2.2.5/css/responsive.dataTables.min.css
+File Name: D:\Sergio\Programacion\webs\gta.world\responsive\2.2.5\css\responsive.dataTables.min.css
+Content Type: text/css
+
+Uri: https://cdn.datatables.net/rowreorder/1.2.7/css/rowReorder.dataTables.min.css
+File Name: D:\Sergio\Programacion\webs\gta.world\rowreorder\1.2.7\css\rowReorder.dataTables.min.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/select2-bootstrap-theme/0.1.0-beta.10/select2-bootstrap.min.css
+File Name: D:\Sergio\Programacion\webs\gta.world\ajax\libs\select2-bootstrap-theme\0.1.0-beta.10\select2-bootstrap.min.css
+Content Type: text/css
+
+Uri: https://cdn.datatables.net/buttons/1.5.2/css/buttons.dataTables.min.css
+File Name: D:\Sergio\Programacion\webs\gta.world\buttons\1.5.2\css\buttons.dataTables.min.css
+Content Type: text/css
+
+Uri: https://cdn.jsdelivr.net/bootstrap.daterangepicker/2/daterangepicker.css
+File Name: D:\Sergio\Programacion\webs\gta.world\bootstrap.daterangepicker\2\daterangepicker.css
+Content Type: text/css
+
+Uri: https://gta.world/UCP_V2/css/theme.css?v=2.21
+File Name: D:\Sergio\Programacion\webs\gta.world\UCP_V2\css\theme.css
+Content Type: text/css
+
+Uri: https://gta.world/UCP_V2/css/theme_compiled.css
+File Name: D:\Sergio\Programacion\webs\gta.world\UCP_V2\css\theme_compiled.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/bootstrap-colorpicker/2.5.3/css/bootstrap-colorpicker.min.css
+File Name: D:\Sergio\Programacion\webs\gta.world\ajax\libs\bootstrap-colorpicker\2.5.3\css\bootstrap-colorpicker.min.css
+Content Type: text/css
+
+Uri: https://gta.world/css/colorpicker.min.css
+File Name: D:\Sergio\Programacion\webs\gta.world\css\colorpicker.min.css
+Content Type: text/css
+
+Uri: https://gta.world/UCP_V2/css/skins/default.css
+File Name: D:\Sergio\Programacion\webs\gta.world\UCP_V2\css\skins\default.css
+Content Type: text/css
+
+Uri: https://gta.world/UCP_V2/css/custom.css?v=19
+File Name: D:\Sergio\Programacion\webs\gta.world\UCP_V2\css\custom.css
+Content Type: text/css
+
+Uri: https://gta.world/UCP_V2/vendor/codemirror/lib/codemirror.css
+File Name: D:\Sergio\Programacion\webs\gta.world\UCP_V2\vendor\codemirror\lib\codemirror.css
+Content Type: text/css
+
+Uri: https://gta.world/UCP_V2/vendor/codemirror/theme/monokai.css
+File Name: D:\Sergio\Programacion\webs\gta.world\UCP_V2\vendor\codemirror\theme\monokai.css
+Content Type: text/css
+
+Uri: https://gta.world/UCP_V2/vendor/summernote/summernote-bs4.css
+File Name: D:\Sergio\Programacion\webs\gta.world\UCP_V2\vendor\summernote\summernote-bs4.css
+Content Type: text/css
+
+Uri: https://gta.world/UCP_V2/vendor/owl.carousel/assets/owl.carousel.css
+File Name: D:\Sergio\Programacion\webs\gta.world\UCP_V2\vendor\owl.carousel\assets\owl.carousel.css
+Content Type: text/css
+
+Uri: https://gta.world/UCP_V2/vendor/owl.carousel/assets/owl.theme.default.css
+File Name: D:\Sergio\Programacion\webs\gta.world\UCP_V2\vendor\owl.carousel\assets\owl.theme.default.css
+Content Type: text/css
+
+Uri: https://unpkg.com/leaflet@1.6.0/dist/leaflet.css
+File Name: D:\Sergio\Programacion\webs\gta.world\leaflet@1.6.0\dist\leaflet.css
+Content Type: text/css
+
+Uri: https://gta.world/mapStyles/leaflet.awesome-markers.css
+File Name: D:\Sergio\Programacion\webs\gta.world\mapStyles\leaflet.awesome-markers.css
+Content Type: text/css
+
+Uri: https://gta.world/User/img/gtaw_carre_BDR_icon.ico.7670a99bd81e2e864a0385b144364734.ico
+File Name: D:\Sergio\Programacion\webs\gta.world\User\img\gtaw_carre_BDR_icon.ico.7670a99bd81e2e864a0385b144364734.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://code.jquery.com/jquery-3.5.1.min.js
+File Name: D:\Sergio\Programacion\webs\gta.world\jquery-3.5.1.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/js-beautify/1.8.10-beta1/beautify.js
+File Name: D:\Sergio\Programacion\webs\gta.world\ajax\libs\js-beautify\1.8.10-beta1\beautify.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/js-beautify/1.8.10-beta1/beautify-css.js
+File Name: D:\Sergio\Programacion\webs\gta.world\ajax\libs\js-beautify\1.8.10-beta1\beautify-css.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/js-beautify/1.8.10-beta1/beautify-html.js
+File Name: D:\Sergio\Programacion\webs\gta.world\ajax\libs\js-beautify\1.8.10-beta1\beautify-html.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/js-beautify/1.8.10-beta1/beautify.min.js
+File Name: D:\Sergio\Programacion\webs\gta.world\ajax\libs\js-beautify\1.8.10-beta1\beautify.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/js-beautify/1.8.10-beta1/beautify-css.min.js
+File Name: D:\Sergio\Programacion\webs\gta.world\ajax\libs\js-beautify\1.8.10-beta1\beautify-css.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/js-beautify/1.8.10-beta1/beautify-html.min.js
+File Name: D:\Sergio\Programacion\webs\gta.world\ajax\libs\js-beautify\1.8.10-beta1\beautify-html.min.js
+Content Type: application/javascript
+
+Uri: https://cdn.rawgit.com/beautify-web/js-beautify/v1.8.10-beta1/js/lib/beautify.js
+File Name: D:\Sergio\Programacion\webs\gta.world\beautify-web\js-beautify\v1.8.10-beta1\js\lib\beautify.js
+Content Type: application/javascript
+
+Uri: https://cdn.rawgit.com/beautify-web/js-beautify/v1.8.10-beta1/js/lib/beautify-css.js
+File Name: D:\Sergio\Programacion\webs\gta.world\beautify-web\js-beautify\v1.8.10-beta1\js\lib\beautify-css.js
+Content Type: application/javascript
+
+Uri: https://cdn.rawgit.com/beautify-web/js-beautify/v1.8.10-beta1/js/lib/beautify-html.js
+File Name: D:\Sergio\Programacion\webs\gta.world\beautify-web\js-beautify\v1.8.10-beta1\js\lib\beautify-html.js
+Content Type: application/javascript
+
+Uri: https://gta.world/mapStyles/leaflet.awesome-markers.js
+File Name: D:\Sergio\Programacion\webs\gta.world\mapStyles\leaflet.awesome-markers.js
+Content Type: application/javascript
+
+Uri: https://gta.world/UCP_V2/vendor/modernizr/modernizr.js
+File Name: D:\Sergio\Programacion\webs\gta.world\UCP_V2\vendor\modernizr\modernizr.js
+Content Type: application/javascript
+
+Uri: https://www.gstatic.com/charts/loader.js
+File Name: D:\Sergio\Programacion\webs\gta.world\charts\loader.js
+Content Type: text/javascript
+
+Uri: https://gta.world/UCP_V2/img/gtaw-logo.png
+File Name: D:\Sergio\Programacion\webs\gta.world\UCP_V2\img\gtaw-logo.png
+Content Type: image/png
+
+Uri: https://gta.world/js/app.js
+File Name: D:\Sergio\Programacion\webs\gta.world\js\app.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js
+File Name: D:\Sergio\Programacion\webs\gta.world\ajax\libs\jqueryui\1.12.1\jquery-ui.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js
+File Name: D:\Sergio\Programacion\webs\gta.world\ajax\libs\jquery\3.3.1\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://gta.world/UCP_V2/vendor/jquery-browser-mobile/jquery.browser.mobile.js
+File Name: D:\Sergio\Programacion\webs\gta.world\UCP_V2\vendor\jquery-browser-mobile\jquery.browser.mobile.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.4/umd/popper.min.js
+File Name: D:\Sergio\Programacion\webs\gta.world\ajax\libs\popper.js\1.14.4\umd\popper.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.3.1/js/bootstrap.min.js
+File Name: D:\Sergio\Programacion\webs\gta.world\ajax\libs\twitter-bootstrap\4.3.1\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/bootstrap-datepicker/1.8.0/js/bootstrap-datepicker.min.js
+File Name: D:\Sergio\Programacion\webs\gta.world\ajax\libs\bootstrap-datepicker\1.8.0\js\bootstrap-datepicker.min.js
+Content Type: application/javascript
+
+Uri: https://gta.world/UCP_V2/vendor/common/common.js
+File Name: D:\Sergio\Programacion\webs\gta.world\UCP_V2\vendor\common\common.js
+Content Type: application/javascript
+
+Uri: https://gta.world/UCP_V2/vendor/nanoscroller/nanoscroller.js
+File Name: D:\Sergio\Programacion\webs\gta.world\UCP_V2\vendor\nanoscroller\nanoscroller.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/jquery.magnific-popup.min.js
+File Name: D:\Sergio\Programacion\webs\gta.world\ajax\libs\magnific-popup.js\1.1.0\jquery.magnific-popup.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/jquery-placeholder/2.3.1/jquery.placeholder.min.js
+File Name: D:\Sergio\Programacion\webs\gta.world\ajax\libs\jquery-placeholder\2.3.1\jquery.placeholder.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/jqueryui-touch-punch/0.2.3/jquery.ui.touch-punch.min.js
+File Name: D:\Sergio\Programacion\webs\gta.world\ajax\libs\jqueryui-touch-punch\0.2.3\jquery.ui.touch-punch.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/jquery-appear/0.1/jquery.appear.min.js
+File Name: D:\Sergio\Programacion\webs\gta.world\ajax\libs\jquery-appear\0.1\jquery.appear.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/bootstrap-multiselect/0.9.15/js/bootstrap-multiselect.min.js
+File Name: D:\Sergio\Programacion\webs\gta.world\ajax\libs\bootstrap-multiselect\0.9.15\js\bootstrap-multiselect.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/easy-pie-chart/2.1.6/jquery.easypiechart.js
+File Name: D:\Sergio\Programacion\webs\gta.world\ajax\libs\easy-pie-chart\2.1.6\jquery.easypiechart.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/flot/0.8.3/jquery.flot.min.js
+File Name: D:\Sergio\Programacion\webs\gta.world\ajax\libs\flot\0.8.3\jquery.flot.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/flot.tooltip/0.9.0/jquery.flot.tooltip.min.js
+File Name: D:\Sergio\Programacion\webs\gta.world\ajax\libs\flot.tooltip\0.9.0\jquery.flot.tooltip.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/flot/0.8.3/jquery.flot.pie.min.js
+File Name: D:\Sergio\Programacion\webs\gta.world\ajax\libs\flot\0.8.3\jquery.flot.pie.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/flot/0.8.3/jquery.flot.categories.min.js
+File Name: D:\Sergio\Programacion\webs\gta.world\ajax\libs\flot\0.8.3\jquery.flot.categories.min.js
+Content Type: application/javascript
+
+Uri: https://gta.world/UCP_V2/vendor/ios7-switch/ios7-switch.js
+File Name: D:\Sergio\Programacion\webs\gta.world\UCP_V2\vendor\ios7-switch\ios7-switch.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/flot/0.8.3/jquery.flot.resize.min.js
+File Name: D:\Sergio\Programacion\webs\gta.world\ajax\libs\flot\0.8.3\jquery.flot.resize.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/jquery-sparklines/2.1.2/jquery.sparkline.min.js
+File Name: D:\Sergio\Programacion\webs\gta.world\ajax\libs\jquery-sparklines\2.1.2\jquery.sparkline.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/raphael/2.2.7/raphael.min.js
+File Name: D:\Sergio\Programacion\webs\gta.world\ajax\libs\raphael\2.2.7\raphael.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/morris.js/0.5.1/morris.min.js
+File Name: D:\Sergio\Programacion\webs\gta.world\ajax\libs\morris.js\0.5.1\morris.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/gauge.js/1.3.6/gauge.min.js
+File Name: D:\Sergio\Programacion\webs\gta.world\ajax\libs\gauge.js\1.3.6\gauge.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/snap.svg/0.5.1/snap.svg-min.js
+File Name: D:\Sergio\Programacion\webs\gta.world\ajax\libs\snap.svg\0.5.1\snap.svg-min.js
+Content Type: application/javascript
+
+Uri: https://gta.world/UCP_V2/vendor/liquid-meter/liquid.meter.js
+File Name: D:\Sergio\Programacion\webs\gta.world\UCP_V2\vendor\liquid-meter\liquid.meter.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/jqvmap/1.5.1/jquery.vmap.min.js
+File Name: D:\Sergio\Programacion\webs\gta.world\ajax\libs\jqvmap\1.5.1\jquery.vmap.min.js
+Content Type: application/javascript
+
+Uri: https://gta.world/UCP_V2/vendor/jqvmap/data/jquery.vmap.sampledata.js
+File Name: D:\Sergio\Programacion\webs\gta.world\UCP_V2\vendor\jqvmap\data\jquery.vmap.sampledata.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/bootstrap-timepicker/0.5.2/js/bootstrap-timepicker.min.js
+File Name: D:\Sergio\Programacion\webs\gta.world\ajax\libs\bootstrap-timepicker\0.5.2\js\bootstrap-timepicker.min.js
+Content Type: application/javascript
+
+Uri: https://gta.world/UCP_V2/js/examples/examples.lightbox.js
+File Name: D:\Sergio\Programacion\webs\gta.world\UCP_V2\js\examples\examples.lightbox.js
+Content Type: application/javascript
+
+Uri: https://gta.world/UCP_V2/vendor/fuelux/js/spinner.js
+File Name: D:\Sergio\Programacion\webs\gta.world\UCP_V2\vendor\fuelux\js\spinner.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.5/js/select2.min.js
+File Name: D:\Sergio\Programacion\webs\gta.world\ajax\libs\select2\4.0.5\js\select2.min.js
+Content Type: application/javascript
+
+Uri: https://gta.world/UCP_V2/vendor/pnotify/pnotify.custom.js
+File Name: D:\Sergio\Programacion\webs\gta.world\UCP_V2\vendor\pnotify\pnotify.custom.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/chartist/0.11.0/chartist.min.js
+File Name: D:\Sergio\Programacion\webs\gta.world\ajax\libs\chartist\0.11.0\chartist.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.17.0/jquery.validate.min.js
+File Name: D:\Sergio\Programacion\webs\gta.world\ajax\libs\jquery-validate\1.17.0\jquery.validate.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap-wizard/1.2/jquery.bootstrap.wizard.min.js
+File Name: D:\Sergio\Programacion\webs\gta.world\ajax\libs\twitter-bootstrap-wizard\1.2\jquery.bootstrap.wizard.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/markdown.js/0.5.0/markdown.min.js
+File Name: D:\Sergio\Programacion\webs\gta.world\ajax\libs\markdown.js\0.5.0\markdown.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/to-markdown/3.1.1/to-markdown.min.js
+File Name: D:\Sergio\Programacion\webs\gta.world\ajax\libs\to-markdown\3.1.1\to-markdown.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/bootstrap-markdown/2.10.0/js/bootstrap-markdown.min.js
+File Name: D:\Sergio\Programacion\webs\gta.world\ajax\libs\bootstrap-markdown\2.10.0\js\bootstrap-markdown.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/datatables/1.10.19/js/jquery.dataTables.min.js
+File Name: D:\Sergio\Programacion\webs\gta.world\ajax\libs\datatables\1.10.19\js\jquery.dataTables.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/datatables/1.10.19/js/dataTables.jqueryui.min.js
+File Name: D:\Sergio\Programacion\webs\gta.world\ajax\libs\datatables\1.10.19\js\dataTables.jqueryui.min.js
+Content Type: application/javascript
+
+Uri: https://cdn.datatables.net/responsive/2.2.5/js/dataTables.responsive.min.js
+File Name: D:\Sergio\Programacion\webs\gta.world\responsive\2.2.5\js\dataTables.responsive.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.22.2/moment-with-locales.min.js
+File Name: D:\Sergio\Programacion\webs\gta.world\ajax\libs\moment.js\2.22.2\moment-with-locales.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/moment-timezone/0.5.23/moment-timezone-with-data.min.js
+File Name: D:\Sergio\Programacion\webs\gta.world\ajax\libs\moment-timezone\0.5.23\moment-timezone-with-data.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/js/bootstrap.bundle.min.js
+File Name: D:\Sergio\Programacion\webs\gta.world\ajax\libs\twitter-bootstrap\4.1.3\js\bootstrap.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/showdown/1.9.0/showdown.min.js
+File Name: D:\Sergio\Programacion\webs\gta.world\ajax\libs\showdown\1.9.0\showdown.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/datatables-tabletools/2.1.5/js/TableTools.min.js
+File Name: D:\Sergio\Programacion\webs\gta.world\ajax\libs\datatables-tabletools\2.1.5\js\TableTools.min.js
+Content Type: application/javascript
+
+Uri: https://cdn.datatables.net/buttons/1.4.1/js/dataTables.buttons.min.js
+File Name: D:\Sergio\Programacion\webs\gta.world\buttons\1.4.1\js\dataTables.buttons.min.js
+Content Type: application/javascript
+
+Uri: https://cdn.datatables.net/buttons/1.4.1/js/buttons.flash.min.js
+File Name: D:\Sergio\Programacion\webs\gta.world\buttons\1.4.1\js\buttons.flash.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/jszip/3.1.3/jszip.min.js
+File Name: D:\Sergio\Programacion\webs\gta.world\ajax\libs\jszip\3.1.3\jszip.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.32/pdfmake.min.js
+File Name: D:\Sergio\Programacion\webs\gta.world\ajax\libs\pdfmake\0.1.32\pdfmake.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.32/vfs_fonts.js
+File Name: D:\Sergio\Programacion\webs\gta.world\ajax\libs\pdfmake\0.1.32\vfs_fonts.js
+Content Type: application/javascript
+
+Uri: https://cdn.datatables.net/buttons/1.4.1/js/buttons.html5.min.js
+File Name: D:\Sergio\Programacion\webs\gta.world\buttons\1.4.1\js\buttons.html5.min.js
+Content Type: application/javascript
+
+Uri: https://cdn.datatables.net/buttons/1.4.1/js/buttons.print.min.js
+File Name: D:\Sergio\Programacion\webs\gta.world\buttons\1.4.1\js\buttons.print.min.js
+Content Type: application/javascript
+
+Uri: https://cdn.jsdelivr.net/bootstrap.daterangepicker/2/daterangepicker.js
+File Name: D:\Sergio\Programacion\webs\gta.world\bootstrap.daterangepicker\2\daterangepicker.js
+Content Type: application/javascript
+
+Uri: https://gta.world/UCP_V2/js/theme.js
+File Name: D:\Sergio\Programacion\webs\gta.world\UCP_V2\js\theme.js
+Content Type: application/javascript
+
+Uri: https://gta.world/UCP_V2/js/custom.js?v=2.2
+File Name: D:\Sergio\Programacion\webs\gta.world\UCP_V2\js\custom.js
+Content Type: application/javascript
+
+Uri: https://gta.world/UCP_V2/vendor/summernote/summernote-bs4.js
+File Name: D:\Sergio\Programacion\webs\gta.world\UCP_V2\vendor\summernote\summernote-bs4.js
+Content Type: application/javascript
+
+Uri: https://gta.world/UCP_V2/vendor/owl.carousel/owl.carousel.js
+File Name: D:\Sergio\Programacion\webs\gta.world\UCP_V2\vendor\owl.carousel\owl.carousel.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/bootstrap-colorpicker/2.5.3/js/bootstrap-colorpicker.min.js
+File Name: D:\Sergio\Programacion\webs\gta.world\ajax\libs\bootstrap-colorpicker\2.5.3\js\bootstrap-colorpicker.min.js
+Content Type: application/javascript
+
+Uri: https://gta.world/UCP_V2/js/theme.init.js
+File Name: D:\Sergio\Programacion\webs\gta.world\UCP_V2\js\theme.init.js
+Content Type: application/javascript
+
+Uri: https://gta.world/UCP_V2/vendor/codemirror/lib/codemirror.js
+File Name: D:\Sergio\Programacion\webs\gta.world\UCP_V2\vendor\codemirror\lib\codemirror.js
+Content Type: application/javascript
+
+Uri: https://gta.world/UCP_V2/vendor/codemirror/addon/selection/active-line.js
+File Name: D:\Sergio\Programacion\webs\gta.world\UCP_V2\vendor\codemirror\addon\selection\active-line.js
+Content Type: application/javascript
+
+Uri: https://gta.world/UCP_V2/vendor/codemirror/addon/edit/matchbrackets.js
+File Name: D:\Sergio\Programacion\webs\gta.world\UCP_V2\vendor\codemirror\addon\edit\matchbrackets.js
+Content Type: application/javascript
+
+Uri: https://gta.world/UCP_V2/vendor/codemirror/mode/javascript/javascript.js
+File Name: D:\Sergio\Programacion\webs\gta.world\UCP_V2\vendor\codemirror\mode\javascript\javascript.js
+Content Type: application/javascript
+
+Uri: https://gta.world/UCP_V2/vendor/codemirror/mode/xml/xml.js
+File Name: D:\Sergio\Programacion\webs\gta.world\UCP_V2\vendor\codemirror\mode\xml\xml.js
+Content Type: application/javascript
+
+Uri: https://gta.world/UCP_V2/vendor/codemirror/mode/htmlmixed/htmlmixed.js
+File Name: D:\Sergio\Programacion\webs\gta.world\UCP_V2\vendor\codemirror\mode\htmlmixed\htmlmixed.js
+Content Type: application/javascript
+
+Uri: https://gta.world/UCP_V2/vendor/codemirror/mode/css/css.js
+File Name: D:\Sergio\Programacion\webs\gta.world\UCP_V2\vendor\codemirror\mode\css\css.js
+Content Type: application/javascript
+
+Uri: https://gta.world/UCP_V2/vendor/nprogress/nprogress.js
+File Name: D:\Sergio\Programacion\webs\gta.world\UCP_V2\vendor\nprogress\nprogress.js
+Content Type: application/javascript
+
+Uri: https://gta.world/UCP_V2/js/examples/examples.dashboard.js
+File Name: D:\Sergio\Programacion\webs\gta.world\UCP_V2\js\examples\examples.dashboard.js
+Content Type: application/javascript
+
+Uri: https://gta.world/UCP_V2/js/examples/examples.modals.js
+File Name: D:\Sergio\Programacion\webs\gta.world\UCP_V2\js\examples\examples.modals.js
+Content Type: application/javascript
+
+Uri: https://gta.world/UCP_V2/js/examples/examples.wizard.js
+File Name: D:\Sergio\Programacion\webs\gta.world\UCP_V2\js\examples\examples.wizard.js
+Content Type: application/javascript
+
+Uri: https://gta.world/UCP_V2/js/examples/examples.charts.js
+File Name: D:\Sergio\Programacion\webs\gta.world\UCP_V2\js\examples\examples.charts.js
+Content Type: application/javascript
+
+Uri: https://gta.world/UCP_V2/js/examples/examples.advanced.form.js
+File Name: D:\Sergio\Programacion\webs\gta.world\UCP_V2\js\examples\examples.advanced.form.js
+Content Type: application/javascript
+
+Uri: https://gta.world/UCP_V2/js/examples/examples.datatables.default.js
+File Name: D:\Sergio\Programacion\webs\gta.world\UCP_V2\js\examples\examples.datatables.default.js
+Content Type: application/javascript
+
+Uri: https://unpkg.com/leaflet@1.6.0/dist/leaflet.js
+File Name: D:\Sergio\Programacion\webs\gta.world\leaflet@1.6.0\dist\leaflet.js
+Content Type: application/javascript
+
+Uri: https://cdn.jsdelivr.net/npm/pixi.js-legacy@5.2.4/dist/pixi-legacy.min.js
+File Name: D:\Sergio\Programacion\webs\gta.world\npm\pixi.js-legacy@5.2.4\dist\pixi-legacy.min.js
+Content Type: application/javascript
+
+Uri: https://cdn.jsdelivr.net/npm/leaflet-pixi-overlay@1.8.1/L.PixiOverlay.min.js
+File Name: D:\Sergio\Programacion\webs\gta.world\npm\leaflet-pixi-overlay@1.8.1\L.PixiOverlay.min.js
+Content Type: application/javascript
+
+Uri: https://d3js.org/d3.v5.min.js
+File Name: D:\Sergio\Programacion\webs\gta.world\d3.v5.min.js
+Content Type: application/javascript
+
+Uri: https://gta.world/mapStyles/leaflet-search.js
+File Name: D:\Sergio\Programacion\webs\gta.world\mapStyles\leaflet-search.js
+Content Type: application/javascript
+
+Uri: https://gta.world/Home/img/favicon.png
+File Name: D:\Sergio\Programacion\webs\gta.world\Home\img\favicon.png
+Content Type: image/png
+
+Uri: https://fonts.googleapis.com/css?family=Josefin+Sans:400,700|Open+Sans:400,700
+File Name: D:\Sergio\Programacion\webs\gta.world\css-2.css
+Content Type: text/css
+
+Uri: https://gta.world/newsite/assets/vendor/bootstrap/dist/css/bootstrap.min.css
+File Name: D:\Sergio\Programacion\webs\gta.world\newsite\assets\vendor\bootstrap\dist\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://gta.world/newsite/assets/vendor/flickity/dist/flickity.min.css
+File Name: D:\Sergio\Programacion\webs\gta.world\newsite\assets\vendor\flickity\dist\flickity.min.css
+Content Type: text/css
+
+Uri: https://gta.world/newsite/assets/vendor/magnific-popup/dist/magnific-popup.css
+File Name: D:\Sergio\Programacion\webs\gta.world\newsite\assets\vendor\magnific-popup\dist\magnific-popup.css
+Content Type: text/css
+
+Uri: https://gta.world/newsite/assets/vendor/slider-revolution/css/settings.css
+File Name: D:\Sergio\Programacion\webs\gta.world\newsite\assets\vendor\slider-revolution\css\settings.css
+Content Type: text/css
+
+Uri: https://gta.world/newsite/assets/vendor/slider-revolution/css/layers.css
+File Name: D:\Sergio\Programacion\webs\gta.world\newsite\assets\vendor\slider-revolution\css\layers.css
+Content Type: text/css
+
+Uri: https://gta.world/newsite/assets/vendor/slider-revolution/css/navigation.css
+File Name: D:\Sergio\Programacion\webs\gta.world\newsite\assets\vendor\slider-revolution\css\navigation.css
+Content Type: text/css
+
+Uri: https://gta.world/newsite/assets/vendor/bootstrap-sweetalert/dist/sweetalert.css
+File Name: D:\Sergio\Programacion\webs\gta.world\newsite\assets\vendor\bootstrap-sweetalert\dist\sweetalert.css
+Content Type: text/css
+
+Uri: https://gta.world/newsite/assets/vendor/social-likes/dist/social-likes_flat.css
+File Name: D:\Sergio\Programacion\webs\gta.world\newsite\assets\vendor\social-likes\dist\social-likes_flat.css
+Content Type: text/css
+
+Uri: https://gta.world/newsite/assets/css/gtaw.css?version=4
+File Name: D:\Sergio\Programacion\webs\gta.world\newsite\assets\css\gtaw.css
+Content Type: text/css
+
+Uri: https://gta.world/newsite/assets/css/custom.css?version=4
+File Name: D:\Sergio\Programacion\webs\gta.world\newsite\assets\css\custom.css
+Content Type: text/css
+
+Uri: https://ucp.gta.world/forgot-password
+File Name: D:\Sergio\Programacion\webs\gta.world\forgot-password.html
+Content Type: text/html
+
+Uri: https://gta.world/privacy
+File Name: D:\Sergio\Programacion\webs\gta.world\privacy.html
+Content Type: text/html
+
+Uri: https://twitter.com/GTAW_Roleplay
+File Name: D:\Sergio\Programacion\webs\gta.world\GTAW_Roleplay.html
+Content Type: text/html
+
+Uri: https://www.googletagmanager.com/gtag/js?id=UA-122618674-1
+File Name: D:\Sergio\Programacion\webs\gta.world\gtag\js.js
+Content Type: application/javascript
+
+Uri: https://gta.world/newsite/assets/vendor/font-awesome/svg-with-js/js/fontawesome-all.min.js
+File Name: D:\Sergio\Programacion\webs\gta.world\newsite\assets\vendor\font-awesome\svg-with-js\js\fontawesome-all.min.js
+Content Type: application/javascript
+
+Uri: https://gta.world/newsite/assets/vendor/font-awesome/svg-with-js/js/fa-v4-shims.min.js
+File Name: D:\Sergio\Programacion\webs\gta.world\newsite\assets\vendor\font-awesome\svg-with-js\js\fa-v4-shims.min.js
+Content Type: application/javascript
+
+Uri: https://gta.world/newsite/assets/vendor/jquery/dist/jquery.min.js
+File Name: D:\Sergio\Programacion\webs\gta.world\newsite\assets\vendor\jquery\dist\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/gsap/2.1.3/TweenMax.min.js
+File Name: D:\Sergio\Programacion\webs\gta.world\ajax\libs\gsap\2.1.3\TweenMax.min.js
+Content Type: application/javascript
+
+Uri: https://gta.world/User/img/raisting-1010862_1920.jpg
+File Name: D:\Sergio\Programacion\webs\gta.world\User\img\raisting-1010862_1920.jpg
+Content Type: image/jpeg
+
+Uri: https://gta.world/newsite/assets/images/gtaw/fb.png
+File Name: D:\Sergio\Programacion\webs\gta.world\newsite\assets\images\gtaw\fb.png
+Content Type: image/png
+
+Uri: https://gta.world/newsite/assets/images/gtaw/twitter.png
+File Name: D:\Sergio\Programacion\webs\gta.world\newsite\assets\images\gtaw\twitter.png
+Content Type: image/png
+
+Uri: https://gta.world/newsite/assets/vendor/object-fit-images/dist/ofi.min.js
+File Name: D:\Sergio\Programacion\webs\gta.world\newsite\assets\vendor\object-fit-images\dist\ofi.min.js
+Content Type: application/javascript
+
+Uri: https://gta.world/newsite/assets/vendor/HexagonProgress/jquery.hexagonprogress.min.js
+File Name: D:\Sergio\Programacion\webs\gta.world\newsite\assets\vendor\HexagonProgress\jquery.hexagonprogress.min.js
+Content Type: application/javascript
+
+Uri: https://gta.world/newsite/assets/vendor/bootstrap/dist/js/bootstrap.min.js
+File Name: D:\Sergio\Programacion\webs\gta.world\newsite\assets\vendor\bootstrap\dist\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://gta.world/newsite/assets/vendor/jarallax/dist/jarallax.min.js
+File Name: D:\Sergio\Programacion\webs\gta.world\newsite\assets\vendor\jarallax\dist\jarallax.min.js
+Content Type: application/javascript
+
+Uri: https://gta.world/newsite/assets/vendor/flickity/dist/flickity.pkgd.min.js
+File Name: D:\Sergio\Programacion\webs\gta.world\newsite\assets\vendor\flickity\dist\flickity.pkgd.min.js
+Content Type: application/javascript
+
+Uri: https://gta.world/newsite/assets/vendor/jquery-countdown/dist/jquery.countdown.min.js
+File Name: D:\Sergio\Programacion\webs\gta.world\newsite\assets\vendor\jquery-countdown\dist\jquery.countdown.min.js
+Content Type: application/javascript
+
+Uri: https://gta.world/newsite/assets/vendor/moment/min/moment.min.js
+File Name: D:\Sergio\Programacion\webs\gta.world\newsite\assets\vendor\moment\min\moment.min.js
+Content Type: application/javascript
+
+Uri: https://gta.world/newsite/assets/vendor/moment-timezone/builds/moment-timezone-with-data.min.js
+File Name: D:\Sergio\Programacion\webs\gta.world\newsite\assets\vendor\moment-timezone\builds\moment-timezone-with-data.min.js
+Content Type: application/javascript
+
+Uri: https://gta.world/newsite/assets/vendor/magnific-popup/dist/jquery.magnific-popup.min.js
+File Name: D:\Sergio\Programacion\webs\gta.world\newsite\assets\vendor\magnific-popup\dist\jquery.magnific-popup.min.js
+Content Type: application/javascript
+
+Uri: https://gta.world/newsite/assets/vendor/slider-revolution/js/jquery.themepunch.tools.min.js
+File Name: D:\Sergio\Programacion\webs\gta.world\newsite\assets\vendor\slider-revolution\js\jquery.themepunch.tools.min.js
+Content Type: application/javascript
+
+Uri: https://gta.world/newsite/assets/vendor/slider-revolution/js/jquery.themepunch.revolution.min.js
+File Name: D:\Sergio\Programacion\webs\gta.world\newsite\assets\vendor\slider-revolution\js\jquery.themepunch.revolution.min.js
+Content Type: application/javascript
+
+Uri: https://gta.world/newsite/assets/vendor/imagesloaded/imagesloaded.pkgd.min.js
+File Name: D:\Sergio\Programacion\webs\gta.world\newsite\assets\vendor\imagesloaded\imagesloaded.pkgd.min.js
+Content Type: application/javascript
+
+Uri: https://gta.world/newsite/assets/vendor/isotope-layout/dist/isotope.pkgd.min.js
+File Name: D:\Sergio\Programacion\webs\gta.world\newsite\assets\vendor\isotope-layout\dist\isotope.pkgd.min.js
+Content Type: application/javascript
+
+Uri: https://gta.world/newsite/assets/vendor/bootstrap-validator/dist/validator.min.js
+File Name: D:\Sergio\Programacion\webs\gta.world\newsite\assets\vendor\bootstrap-validator\dist\validator.min.js
+Content Type: application/javascript
+
+Uri: https://gta.world/newsite/assets/vendor/bootstrap-sweetalert/dist/sweetalert.min.js
+File Name: D:\Sergio\Programacion\webs\gta.world\newsite\assets\vendor\bootstrap-sweetalert\dist\sweetalert.min.js
+Content Type: application/javascript
+
+Uri: https://gta.world/newsite/assets/vendor/social-likes/dist/social-likes.min.js
+File Name: D:\Sergio\Programacion\webs\gta.world\newsite\assets\vendor\social-likes\dist\social-likes.min.js
+Content Type: application/javascript
+
+Uri: https://gta.world/newsite/assets/js/gtaw.min.js
+File Name: D:\Sergio\Programacion\webs\gta.world\newsite\assets\js\gtaw.min.js
+Content Type: application/javascript
+
+Uri: https://gta.world/newsite/assets/js/gtaw-init.js
+File Name: D:\Sergio\Programacion\webs\gta.world\newsite\assets\js\gtaw-init.js
+Content Type: application/javascript
+
+Uri: https://www.instagram.com/accounts/login/
+File Name: D:\Sergio\Programacion\webs\gta.world\accounts\login\index.htm
+Content Type: text/html
+
+Uri: https://ucp.gta.world/help
+File Name: D:\Sergio\Programacion\webs\gta.world\help.html
+Content Type: text/html
+
+Uri: https://gta.world/cdn-cgi/images/icon-exclamation.png?1376755637
+File Name: D:\Sergio\Programacion\webs\gta.world\cdn-cgi\images\icon-exclamation.png
+Content Type: image/png
+
+Uri: https://gta.world/cdn-cgi/images/cf-icon-horizontal-arrow.png
+File Name: D:\Sergio\Programacion\webs\gta.world\cdn-cgi\images\cf-icon-horizontal-arrow.png
+Content Type: image/png
+
+Uri: https://gta.world/cdn-cgi/images/browser-bar.png?1376755637
+File Name: D:\Sergio\Programacion\webs\gta.world\cdn-cgi\images\browser-bar.png
+Content Type: image/png
+
+Uri: https://gta.world/cdn-cgi/images/cf-no-screenshot-warn.png
+File Name: D:\Sergio\Programacion\webs\gta.world\cdn-cgi\images\cf-no-screenshot-warn.png
+Content Type: image/png
+
+Uri: https://gta.world/cdn-cgi/images/cf-no-screenshot-error.png
+File Name: D:\Sergio\Programacion\webs\gta.world\cdn-cgi\images\cf-no-screenshot-error.png
+Content Type: image/png
+
+Uri: https://gta.world/cdn-cgi/images/cf-icon-ok.png
+File Name: D:\Sergio\Programacion\webs\gta.world\cdn-cgi\images\cf-icon-ok.png
+Content Type: image/png
+
+Uri: https://gta.world/cdn-cgi/images/cf-icon-error.png
+File Name: D:\Sergio\Programacion\webs\gta.world\cdn-cgi\images\cf-icon-error.png
+Content Type: image/png
+
+Uri: https://gta.world/cdn-cgi/images/cf-icon-browser.png
+File Name: D:\Sergio\Programacion\webs\gta.world\cdn-cgi\images\cf-icon-browser.png
+Content Type: image/png
+
+Uri: https://gta.world/cdn-cgi/images/cf-icon-cloud.png
+File Name: D:\Sergio\Programacion\webs\gta.world\cdn-cgi\images\cf-icon-cloud.png
+Content Type: image/png
+
+Uri: https://gta.world/cdn-cgi/images/cf-icon-server.png
+File Name: D:\Sergio\Programacion\webs\gta.world\cdn-cgi\images\cf-icon-server.png
+Content Type: image/png
+
+Uri: https://www.cloudflare.com/5xx-error-landing/
+File Name: D:\Sergio\Programacion\webs\gta.world\5xx-error-landing\index.htm
+Content Type: text/html
+
+Uri: https://i.imgur.com/3PHHkK2.jpg
+File Name: D:\Sergio\Programacion\webs\gta.world\3PHHkK2.jpg
+Content Type: image/jpeg
+
+Uri: https://gta.world/UCP_V2/img/patterns/gray_jean.png
+File Name: D:\Sergio\Programacion\webs\gta.world\UCP_V2\img\patterns\gray_jean.png
+Content Type: image/png
+
+Uri: https://gta.world/UCP_V2/img/gtaw-header.jpg
+File Name: D:\Sergio\Programacion\webs\gta.world\UCP_V2\img\gtaw-header.jpg
+Content Type: image/jpeg
+
+Uri: https://gta.world/UCP_V2/img/patterns/stripes.png
+File Name: D:\Sergio\Programacion\webs\gta.world\UCP_V2\img\patterns\stripes.png.html
+Content Type: text/html
+
+Uri: https://gta.world/UCP_V2/img/arrows.png
+File Name: D:\Sergio\Programacion\webs\gta.world\UCP_V2\img\arrows.png
+Content Type: image/png
+
+Uri: https://gta.world/UCP_V2/img/arrows-dark.png
+File Name: D:\Sergio\Programacion\webs\gta.world\UCP_V2\img\arrows-dark.png
+Content Type: image/png
+
+Uri: https://gta.world/UCP_V2/img/jstree.png
+File Name: D:\Sergio\Programacion\webs\gta.world\UCP_V2\img\jstree.png
+Content Type: image/png
+
+Uri: https://gta.world/UCP_V2/img/jstree-dark.png
+File Name: D:\Sergio\Programacion\webs\gta.world\UCP_V2\img\jstree-dark.png
+Content Type: image/png
+
+Uri: https://gta.world/UCP_V2/img/patterns/noisy_net.png
+File Name: D:\Sergio\Programacion\webs\gta.world\UCP_V2\img\patterns\noisy_net.png
+Content Type: image/png
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:light,regular,medium,thin,italic,mediumitalic,bold
+File Name: D:\Sergio\Programacion\webs\gta.world\css-3.css
+Content Type: text/css
+
+Uri: https://gta.world/UCP_V2/vendor/summernote/font/summernote.eot?dbafe969167589eda84514394d126413
+File Name: D:\Sergio\Programacion\webs\gta.world\UCP_V2\vendor\summernote\font\summernote.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://gta.world/UCP_V2/vendor/summernote/font/summernote.eot?
+File Name: D:\Sergio\Programacion\webs\gta.world\UCP_V2\vendor\summernote\font\summernote-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://gta.world/UCP_V2/vendor/summernote/font/summernote.woff?dbafe969167589eda84514394d126413
+File Name: D:\Sergio\Programacion\webs\gta.world\UCP_V2\vendor\summernote\font\summernote.woff
+Content Type: application/font-woff
+
+Uri: https://gta.world/UCP_V2/vendor/summernote/font/summernote.ttf?dbafe969167589eda84514394d126413
+File Name: D:\Sergio\Programacion\webs\gta.world\UCP_V2\vendor\summernote\font\summernote.ttf
+Content Type: application/font-sfnt
+
+Uri: https://gta.world/UCP_V2/vendor/owl.carousel/assets/owl.video.play.png
+File Name: D:\Sergio\Programacion\webs\gta.world\UCP_V2\vendor\owl.carousel\assets\owl.video.play.png
+Content Type: image/png
+
+Uri: https://gta.world/mapStyles/images/markers-soft.png
+File Name: D:\Sergio\Programacion\webs\gta.world\mapStyles\images\markers-soft.png
+Content Type: image/png
+
+Uri: https://gta.world/mapStyles/images/markers-shadow.png
+File Name: D:\Sergio\Programacion\webs\gta.world\mapStyles\images\markers-shadow.png
+Content Type: image/png
+
+Uri: https://gta.world/mapStyles/images/markers-soft@2x.png
+File Name: D:\Sergio\Programacion\webs\gta.world\mapStyles\images\markers-soft@2x.png
+Content Type: image/png
+
+Uri: https://gta.world/mapStyles/images/markers-shadow@2x.png
+File Name: D:\Sergio\Programacion\webs\gta.world\mapStyles\images\markers-shadow@2x.png
+Content Type: image/png
+
+Uri: https://gta.world/newsite/assets/vendor/bootstrap/dist/fonts/glyphicons-halflings-regular.eot
+File Name: D:\Sergio\Programacion\webs\gta.world\newsite\assets\vendor\bootstrap\dist\fonts\glyphicons-halflings-regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://gta.world/newsite/assets/vendor/bootstrap/dist/fonts/glyphicons-halflings-regular.eot?
+File Name: D:\Sergio\Programacion\webs\gta.world\newsite\assets\vendor\bootstrap\dist\fonts\glyphicons-halflings-regular-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://gta.world/newsite/assets/vendor/bootstrap/dist/fonts/glyphicons-halflings-regular.woff2
+File Name: D:\Sergio\Programacion\webs\gta.world\newsite\assets\vendor\bootstrap\dist\fonts\glyphicons-halflings-regular.woff2
+Content Type: 
+
+Uri: https://gta.world/newsite/assets/vendor/bootstrap/dist/fonts/glyphicons-halflings-regular.woff
+File Name: D:\Sergio\Programacion\webs\gta.world\newsite\assets\vendor\bootstrap\dist\fonts\glyphicons-halflings-regular.woff
+Content Type: application/font-woff
+
+Uri: https://gta.world/newsite/assets/vendor/bootstrap/dist/fonts/glyphicons-halflings-regular.ttf
+File Name: D:\Sergio\Programacion\webs\gta.world\newsite\assets\vendor\bootstrap\dist\fonts\glyphicons-halflings-regular.ttf
+Content Type: application/font-sfnt
+
+Uri: https://gta.world/newsite/assets/vendor/bootstrap/dist/fonts/glyphicons-halflings-regular.svg
+File Name: D:\Sergio\Programacion\webs\gta.world\newsite\assets\vendor\bootstrap\dist\fonts\glyphicons-halflings-regular.svg
+Content Type: image/svg+xml
+
+Uri: https://gta.world/newsite/assets/vendor/slider-revolution/fonts/revicons/revicons.eot?5510888
+File Name: D:\Sergio\Programacion\webs\gta.world\newsite\assets\vendor\slider-revolution\fonts\revicons\revicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://gta.world/newsite/assets/vendor/slider-revolution/fonts/revicons/revicons.woff?5510888
+File Name: D:\Sergio\Programacion\webs\gta.world\newsite\assets\vendor\slider-revolution\fonts\revicons\revicons.woff
+Content Type: application/font-woff
+
+Uri: https://gta.world/newsite/assets/vendor/slider-revolution/fonts/revicons/revicons.ttf?5510888
+File Name: D:\Sergio\Programacion\webs\gta.world\newsite\assets\vendor\slider-revolution\fonts\revicons\revicons.ttf
+Content Type: application/font-sfnt
+
+Uri: https://gta.world/newsite/assets/vendor/slider-revolution/fonts/revicons/revicons.svg?5510888
+File Name: D:\Sergio\Programacion\webs\gta.world\newsite\assets\vendor\slider-revolution\fonts\revicons\revicons.svg
+Content Type: image/svg+xml
+
+Uri: https://gta.world/newsite/assets/vendor/slider-revolution/css/openhand.cur
+File Name: D:\Sergio\Programacion\webs\gta.world\newsite\assets\vendor\slider-revolution\css\openhand.cur
+Content Type: 
+
+Uri: https://gta.world/newsite/assets/vendor/slider-revolution/css/closedhand.cur
+File Name: D:\Sergio\Programacion\webs\gta.world\newsite\assets\vendor\slider-revolution\css\closedhand.cur
+Content Type: 
+
+Uri: https://gta.world/newsite/assets/vendor/slider-revolution/assets/gridtile.png
+File Name: D:\Sergio\Programacion\webs\gta.world\newsite\assets\vendor\slider-revolution\assets\gridtile.png
+Content Type: image/png
+
+Uri: https://gta.world/newsite/assets/vendor/slider-revolution/assets/gridtile_white.png
+File Name: D:\Sergio\Programacion\webs\gta.world\newsite\assets\vendor\slider-revolution\assets\gridtile_white.png
+Content Type: image/png
+
+Uri: https://gta.world/newsite/assets/vendor/slider-revolution/assets/gridtile_3x3.png
+File Name: D:\Sergio\Programacion\webs\gta.world\newsite\assets\vendor\slider-revolution\assets\gridtile_3x3.png
+Content Type: image/png
+
+Uri: https://gta.world/newsite/assets/vendor/slider-revolution/assets/gridtile_3x3_white.png
+File Name: D:\Sergio\Programacion\webs\gta.world\newsite\assets\vendor\slider-revolution\assets\gridtile_3x3_white.png
+Content Type: image/png
+
+Uri: https://gta.world/newsite/assets/vendor/slider-revolution/assets/coloredbg.png
+File Name: D:\Sergio\Programacion\webs\gta.world\newsite\assets\vendor\slider-revolution\assets\coloredbg.png
+Content Type: image/png
+
+Uri: https://gta.world/newsite/assets/vendor/slider-revolution/assets/loader.gif
+File Name: D:\Sergio\Programacion\webs\gta.world\newsite\assets\vendor\slider-revolution\assets\loader.gif
+Content Type: image/gif
+
+Uri: https://ucp.gta.world/register?source=homepage&btn=navbar
+File Name: D:\Sergio\Programacion\webs\gta.world\register.html
+Content Type: text/html
+
+Uri: https://gta.world/User/img/headers/image-header7.png
+File Name: D:\Sergio\Programacion\webs\gta.world\User\img\headers\image-header7.png
+Content Type: image/png
+
+Uri: https://gta.world/register
+File Name: D:\Sergio\Programacion\webs\gta.world\register-1.html
+Content Type: text/html
+
+Uri: https://forum.gta.world/en/index.php?/topic/95-game-changelog/
+File Name: D:\Sergio\Programacion\webs\gta.world\en\index.php.html
+Content Type: text/html
+
+Uri: https://map.gta.world/
+File Name: D:\Sergio\Programacion\webs\gta.world\index-2.htm
+Content Type: text/html
+
+Uri: https://face.gta.world/
+File Name: D:\Sergio\Programacion\webs\gta.world\index-3.htm
+Content Type: text/html
+
+Uri: https://www.tiktok.com/@gtawrp
+File Name: D:\Sergio\Programacion\webs\gta.world\@gtawrp.html
+Content Type: text/html
+
+Uri: https://gta.world/cookie-policy
+File Name: D:\Sergio\Programacion\webs\gta.world\cookie-policy.html
+Content Type: text/html
+
+Uri: https://www.internetcookies.com/
+File Name: D:\Sergio\Programacion\webs\gta.world\index-4.htm
+Content Type: text/html
+
